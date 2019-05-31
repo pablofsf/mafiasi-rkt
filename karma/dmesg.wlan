@@ -1,0 +1,1549 @@
+[242006.748650] usb 2-10.2.1: New USB device strings: Mfr=1, Product=4, SerialNumber=0
+[242006.748652] usb 2-10.2.1: Product: FSC KBPC PX 
+[242006.748654] usb 2-10.2.1: Manufacturer: Fujitsu Siemens Computers GmbH
+[242006.764600] input: Fujitsu Siemens Computers GmbH FSC KBPC PX  as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2.1/2-10.2.1:1.0/0003:0BF8:100C.0017/input/input206
+[242006.824695] hid-generic 0003:0BF8:100C.0017: input,hidraw1: USB HID v1.10 Keyboard [Fujitsu Siemens Computers GmbH FSC KBPC PX ] on usb-0000:00:14.0-10.2.1/input0
+[242006.829731] input: Fujitsu Siemens Computers GmbH FSC KBPC PX  System Control as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2.1/2-10.2.1:1.1/0003:0BF8:100C.0018/input/input207
+[242006.888537] input: Fujitsu Siemens Computers GmbH FSC KBPC PX  Consumer Control as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2.1/2-10.2.1:1.1/0003:0BF8:100C.0018/input/input208
+[242006.888621] hid-generic 0003:0BF8:100C.0018: input,hidraw2: USB HID v1.10 Device [Fujitsu Siemens Computers GmbH FSC KBPC PX ] on usb-0000:00:14.0-10.2.1/input1
+[242006.938768] audit: type=1326 audit(1544101460.576:116): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=3570 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7f57817 code=0x0
+[242006.946547] audit: type=1326 audit(1544101460.584:117): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=3571 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7f3b817 code=0x0
+[242006.970505] audit: type=1326 audit(1544101460.608:118): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=3573 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7fc3817 code=0x0
+[242007.532397] usb 2-10.3: new high-speed USB device number 47 using xhci_hcd
+[242007.632506] usb 2-10.3: New USB device found, idVendor=0424, idProduct=2514, bcdDevice= 0.00
+[242007.632509] usb 2-10.3: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[242007.636827] hub 2-10.3:1.0: USB hub found
+[242007.636889] hub 2-10.3:1.0: 4 ports detected
+[242009.307407] wlp2s0: authenticate with 54:e6:fc:db:95:b4
+[242009.309358] wlp2s0: send auth to 54:e6:fc:db:95:b4 (try 1/3)
+[242009.319986] wlp2s0: authenticated
+[242009.320707] wlp2s0: associate with 54:e6:fc:db:95:b4 (try 1/3)
+[242009.324430] wlp2s0: RX AssocResp from 54:e6:fc:db:95:b4 (capab=0x31 status=0 aid=13)
+[242009.327363] wlp2s0: associated
+[242009.342574] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+[242076.926418] CPU1: Core temperature above threshold, cpu clock throttled (total events = 446262)
+[242076.926419] CPU0: Core temperature above threshold, cpu clock throttled (total events = 446320)
+[242076.926421] CPU2: Package temperature above threshold, cpu clock throttled (total events = 711903)
+[242076.926423] CPU3: Package temperature above threshold, cpu clock throttled (total events = 712130)
+[242076.926425] CPU0: Package temperature above threshold, cpu clock throttled (total events = 712021)
+[242076.926431] CPU1: Package temperature above threshold, cpu clock throttled (total events = 711924)
+[242076.927454] CPU1: Core temperature/speed normal
+[242076.927455] CPU0: Core temperature/speed normal
+[242076.927456] CPU2: Package temperature/speed normal
+[242076.927457] CPU3: Package temperature/speed normal
+[242076.927458] CPU0: Package temperature/speed normal
+[242076.927461] CPU1: Package temperature/speed normal
+[242408.548001] CPU1: Core temperature above threshold, cpu clock throttled (total events = 446480)
+[242408.548002] CPU0: Core temperature above threshold, cpu clock throttled (total events = 446538)
+[242408.548007] CPU2: Package temperature above threshold, cpu clock throttled (total events = 712121)
+[242408.548009] CPU3: Package temperature above threshold, cpu clock throttled (total events = 712348)
+[242408.548009] CPU0: Package temperature above threshold, cpu clock throttled (total events = 712239)
+[242408.548012] CPU1: Package temperature above threshold, cpu clock throttled (total events = 712142)
+[242408.549017] CPU1: Core temperature/speed normal
+[242408.549018] CPU0: Core temperature/speed normal
+[242408.549020] CPU0: Package temperature/speed normal
+[242408.549021] CPU1: Package temperature/speed normal
+[242408.549024] CPU2: Package temperature/speed normal
+[242408.549025] CPU3: Package temperature/speed normal
+[242753.752939] CPU2: Package temperature above threshold, cpu clock throttled (total events = 712488)
+[242753.752940] CPU3: Package temperature above threshold, cpu clock throttled (total events = 712715)
+[242753.752944] CPU1: Package temperature above threshold, cpu clock throttled (total events = 712509)
+[242753.752945] CPU0: Package temperature above threshold, cpu clock throttled (total events = 712606)
+[242753.753979] CPU3: Package temperature/speed normal
+[242753.753980] CPU2: Package temperature/speed normal
+[242753.753982] CPU1: Package temperature/speed normal
+[242753.753983] CPU0: Package temperature/speed normal
+[243095.956965] CPU0: Core temperature above threshold, cpu clock throttled (total events = 448344)
+[243095.956966] CPU1: Core temperature above threshold, cpu clock throttled (total events = 448286)
+[243095.956970] CPU1: Package temperature above threshold, cpu clock throttled (total events = 714081)
+[243095.956972] CPU2: Package temperature above threshold, cpu clock throttled (total events = 714060)
+[243095.956974] CPU3: Package temperature above threshold, cpu clock throttled (total events = 714287)
+[243095.956977] CPU0: Package temperature above threshold, cpu clock throttled (total events = 714178)
+[243095.957987] CPU0: Core temperature/speed normal
+[243095.957988] CPU1: Core temperature/speed normal
+[243095.957990] CPU0: Package temperature/speed normal
+[243095.957991] CPU1: Package temperature/speed normal
+[243095.957992] CPU3: Package temperature/speed normal
+[243095.957993] CPU2: Package temperature/speed normal
+[243355.128028] CPU2: Core temperature above threshold, cpu clock throttled (total events = 246510)
+[243355.128029] CPU3: Core temperature above threshold, cpu clock throttled (total events = 246510)
+[243355.129051] CPU2: Core temperature/speed normal
+[243355.129064] CPU3: Core temperature/speed normal
+[243403.645192] CPU2: Package temperature above threshold, cpu clock throttled (total events = 714566)
+[243403.645194] CPU3: Package temperature above threshold, cpu clock throttled (total events = 714793)
+[243403.645197] CPU1: Package temperature above threshold, cpu clock throttled (total events = 714587)
+[243403.645198] CPU0: Package temperature above threshold, cpu clock throttled (total events = 714684)
+[243403.646224] CPU3: Package temperature/speed normal
+[243403.646225] CPU2: Package temperature/speed normal
+[243403.646226] CPU0: Package temperature/speed normal
+[243403.646227] CPU1: Package temperature/speed normal
+[243661.498237] CPU2: Core temperature above threshold, cpu clock throttled (total events = 247515)
+[243661.498239] CPU3: Core temperature above threshold, cpu clock throttled (total events = 247515)
+[243661.499232] CPU2: Core temperature/speed normal
+[243661.499234] CPU3: Core temperature/speed normal
+[243709.688617] CPU0: Core temperature above threshold, cpu clock throttled (total events = 450504)
+[243709.688619] CPU1: Core temperature above threshold, cpu clock throttled (total events = 450446)
+[243709.688621] CPU2: Package temperature above threshold, cpu clock throttled (total events = 717494)
+[243709.688622] CPU3: Package temperature above threshold, cpu clock throttled (total events = 717721)
+[243709.688624] CPU1: Package temperature above threshold, cpu clock throttled (total events = 717515)
+[243709.688629] CPU0: Package temperature above threshold, cpu clock throttled (total events = 717612)
+[243709.689645] CPU0: Core temperature/speed normal
+[243709.689657] CPU1: Core temperature/speed normal
+[243709.689659] CPU3: Package temperature/speed normal
+[243709.689660] CPU2: Package temperature/speed normal
+[243709.689661] CPU1: Package temperature/speed normal
+[243709.689662] CPU0: Package temperature/speed normal
+[244026.170196] CPU1: Core temperature above threshold, cpu clock throttled (total events = 451175)
+[244026.170197] CPU0: Core temperature above threshold, cpu clock throttled (total events = 451233)
+[244026.170201] CPU0: Package temperature above threshold, cpu clock throttled (total events = 718587)
+[244026.170204] CPU3: Package temperature above threshold, cpu clock throttled (total events = 718696)
+[244026.170205] CPU2: Package temperature above threshold, cpu clock throttled (total events = 718469)
+[244026.170207] CPU1: Package temperature above threshold, cpu clock throttled (total events = 718490)
+[244026.171195] CPU1: Core temperature/speed normal
+[244026.171209] CPU0: Core temperature/speed normal
+[244026.171211] CPU0: Package temperature/speed normal
+[244026.171212] CPU1: Package temperature/speed normal
+[244026.171216] CPU2: Package temperature/speed normal
+[244026.171217] CPU3: Package temperature/speed normal
+[244374.867202] CPU0: Core temperature above threshold, cpu clock throttled (total events = 452063)
+[244374.867203] CPU1: Core temperature above threshold, cpu clock throttled (total events = 452005)
+[244374.867205] CPU2: Package temperature above threshold, cpu clock throttled (total events = 719690)
+[244374.867208] CPU3: Package temperature above threshold, cpu clock throttled (total events = 719917)
+[244374.867209] CPU1: Package temperature above threshold, cpu clock throttled (total events = 719711)
+[244374.867215] CPU0: Package temperature above threshold, cpu clock throttled (total events = 719808)
+[244374.868216] CPU1: Core temperature/speed normal
+[244374.868229] CPU0: Core temperature/speed normal
+[244374.868230] CPU3: Package temperature/speed normal
+[244374.868232] CPU2: Package temperature/speed normal
+[244374.868233] CPU0: Package temperature/speed normal
+[244374.868233] CPU1: Package temperature/speed normal
+[244681.047962] CPU0: Core temperature above threshold, cpu clock throttled (total events = 453893)
+[244681.047964] CPU1: Core temperature above threshold, cpu clock throttled (total events = 453835)
+[244681.047968] CPU1: Package temperature above threshold, cpu clock throttled (total events = 721882)
+[244681.047970] CPU2: Package temperature above threshold, cpu clock throttled (total events = 721861)
+[244681.047971] CPU3: Package temperature above threshold, cpu clock throttled (total events = 722088)
+[244681.047974] CPU0: Package temperature above threshold, cpu clock throttled (total events = 721979)
+[244681.048966] CPU0: Core temperature/speed normal
+[244681.048979] CPU1: Core temperature/speed normal
+[244681.048981] CPU1: Package temperature/speed normal
+[244681.048982] CPU0: Package temperature/speed normal
+[244681.048986] CPU2: Package temperature/speed normal
+[244681.048987] CPU3: Package temperature/speed normal
+[245013.521478] CPU1: Core temperature above threshold, cpu clock throttled (total events = 456005)
+[245013.521479] CPU0: Core temperature above threshold, cpu clock throttled (total events = 456063)
+[245013.521481] CPU3: Package temperature above threshold, cpu clock throttled (total events = 725355)
+[245013.521482] CPU2: Package temperature above threshold, cpu clock throttled (total events = 725128)
+[245013.521485] CPU0: Package temperature above threshold, cpu clock throttled (total events = 725246)
+[245013.521490] CPU1: Package temperature above threshold, cpu clock throttled (total events = 725149)
+[245013.524508] CPU0: Core temperature/speed normal
+[245013.524509] CPU1: Core temperature/speed normal
+[245013.524511] CPU2: Package temperature/speed normal
+[245013.524512] CPU3: Package temperature/speed normal
+[245013.524513] CPU1: Package temperature/speed normal
+[245013.524514] CPU0: Package temperature/speed normal
+[245334.849237] CPU1: Core temperature above threshold, cpu clock throttled (total events = 456661)
+[245334.849239] CPU0: Core temperature above threshold, cpu clock throttled (total events = 456719)
+[245334.849243] CPU2: Package temperature above threshold, cpu clock throttled (total events = 726463)
+[245334.849244] CPU3: Package temperature above threshold, cpu clock throttled (total events = 726690)
+[245334.849245] CPU0: Package temperature above threshold, cpu clock throttled (total events = 726581)
+[245334.849251] CPU1: Package temperature above threshold, cpu clock throttled (total events = 726484)
+[245334.850278] CPU1: Core temperature/speed normal
+[245334.850279] CPU0: Core temperature/speed normal
+[245334.850280] CPU2: Package temperature/speed normal
+[245334.850281] CPU3: Package temperature/speed normal
+[245334.850282] CPU0: Package temperature/speed normal
+[245334.850283] CPU1: Package temperature/speed normal
+[245647.088000] CPU2: Core temperature above threshold, cpu clock throttled (total events = 250431)
+[245647.088001] CPU3: Core temperature above threshold, cpu clock throttled (total events = 250431)
+[245647.088005] CPU3: Package temperature above threshold, cpu clock throttled (total events = 727426)
+[245647.088007] CPU0: Package temperature above threshold, cpu clock throttled (total events = 727317)
+[245647.088009] CPU1: Package temperature above threshold, cpu clock throttled (total events = 727220)
+[245647.088010] CPU2: Package temperature above threshold, cpu clock throttled (total events = 727199)
+[245647.089000] CPU2: Core temperature/speed normal
+[245647.089013] CPU3: Core temperature/speed normal
+[245647.089014] CPU2: Package temperature/speed normal
+[245647.089015] CPU3: Package temperature/speed normal
+[245647.089017] CPU1: Package temperature/speed normal
+[245647.089017] CPU0: Package temperature/speed normal
+[245994.841840] CPU0: Core temperature above threshold, cpu clock throttled (total events = 458202)
+[245994.841841] CPU1: Core temperature above threshold, cpu clock throttled (total events = 458144)
+[245994.841843] CPU3: Package temperature above threshold, cpu clock throttled (total events = 728472)
+[245994.841844] CPU2: Package temperature above threshold, cpu clock throttled (total events = 728245)
+[245994.841847] CPU1: Package temperature above threshold, cpu clock throttled (total events = 728266)
+[245994.841852] CPU0: Package temperature above threshold, cpu clock throttled (total events = 728363)
+[245994.842855] CPU0: Core temperature/speed normal
+[245994.842868] CPU1: Core temperature/speed normal
+[245994.842870] CPU3: Package temperature/speed normal
+[245994.842871] CPU2: Package temperature/speed normal
+[245994.842872] CPU1: Package temperature/speed normal
+[245994.842874] CPU0: Package temperature/speed normal
+[246305.298486] CPU1: Core temperature above threshold, cpu clock throttled (total events = 460528)
+[246305.298487] CPU0: Core temperature above threshold, cpu clock throttled (total events = 460586)
+[246305.298489] CPU2: Package temperature above threshold, cpu clock throttled (total events = 730984)
+[246305.298490] CPU3: Package temperature above threshold, cpu clock throttled (total events = 731211)
+[246305.298493] CPU0: Package temperature above threshold, cpu clock throttled (total events = 731102)
+[246305.298498] CPU1: Package temperature above threshold, cpu clock throttled (total events = 731005)
+[246305.299483] CPU1: Core temperature/speed normal
+[246305.299486] CPU0: Core temperature/speed normal
+[246305.299492] CPU3: Package temperature/speed normal
+[246305.299512] CPU2: Package temperature/speed normal
+[246305.299513] CPU0: Package temperature/speed normal
+[246305.299514] CPU1: Package temperature/speed normal
+[246622.736244] CPU2: Package temperature above threshold, cpu clock throttled (total events = 732644)
+[246622.736245] CPU3: Package temperature above threshold, cpu clock throttled (total events = 732871)
+[246622.736247] CPU1: Package temperature above threshold, cpu clock throttled (total events = 732665)
+[246622.736248] CPU0: Package temperature above threshold, cpu clock throttled (total events = 732762)
+[246622.737274] CPU2: Package temperature/speed normal
+[246622.737275] CPU0: Package temperature/speed normal
+[246622.737276] CPU1: Package temperature/speed normal
+[246622.737277] CPU3: Package temperature/speed normal
+[246955.119557] CPU2: Core temperature above threshold, cpu clock throttled (total events = 252360)
+[246955.119558] CPU3: Core temperature above threshold, cpu clock throttled (total events = 252360)
+[246955.119560] CPU0: Package temperature above threshold, cpu clock throttled (total events = 733984)
+[246955.119561] CPU1: Package temperature above threshold, cpu clock throttled (total events = 733887)
+[246955.119563] CPU3: Package temperature above threshold, cpu clock throttled (total events = 734093)
+[246955.119568] CPU2: Package temperature above threshold, cpu clock throttled (total events = 733866)
+[246955.120582] CPU2: Core temperature/speed normal
+[246955.120596] CPU3: Core temperature/speed normal
+[246955.120597] CPU0: Package temperature/speed normal
+[246955.120598] CPU1: Package temperature/speed normal
+[246955.120599] CPU3: Package temperature/speed normal
+[246955.120600] CPU2: Package temperature/speed normal
+[247255.117016] CPU0: Package temperature above threshold, cpu clock throttled (total events = 735571)
+[247255.117018] CPU1: Package temperature above threshold, cpu clock throttled (total events = 735474)
+[247255.117030] CPU3: Package temperature above threshold, cpu clock throttled (total events = 735680)
+[247255.117031] CPU2: Package temperature above threshold, cpu clock throttled (total events = 735453)
+[247255.118036] CPU0: Package temperature/speed normal
+[247255.118037] CPU2: Package temperature/speed normal
+[247255.118039] CPU3: Package temperature/speed normal
+[247255.118044] CPU1: Package temperature/speed normal
+[247255.179154] CPU0: Core temperature above threshold, cpu clock throttled (total events = 463575)
+[247255.179156] CPU1: Core temperature above threshold, cpu clock throttled (total events = 463517)
+[247255.181176] CPU0: Core temperature/speed normal
+[247255.181189] CPU1: Core temperature/speed normal
+[247595.428675] CPU0: Core temperature above threshold, cpu clock throttled (total events = 467259)
+[247595.428676] CPU1: Core temperature above threshold, cpu clock throttled (total events = 467201)
+[247595.428680] CPU1: Package temperature above threshold, cpu clock throttled (total events = 739727)
+[247595.428683] CPU3: Package temperature above threshold, cpu clock throttled (total events = 739933)
+[247595.428685] CPU2: Package temperature above threshold, cpu clock throttled (total events = 739706)
+[247595.428688] CPU0: Package temperature above threshold, cpu clock throttled (total events = 739824)
+[247595.429673] CPU0: Core temperature/speed normal
+[247595.429686] CPU1: Core temperature/speed normal
+[247595.429688] CPU0: Package temperature/speed normal
+[247595.429689] CPU1: Package temperature/speed normal
+[247595.429690] CPU2: Package temperature/speed normal
+[247595.429691] CPU3: Package temperature/speed normal
+[247898.593432] CPU0: Core temperature above threshold, cpu clock throttled (total events = 468224)
+[247898.593433] CPU1: Core temperature above threshold, cpu clock throttled (total events = 468166)
+[247898.593435] CPU3: Package temperature above threshold, cpu clock throttled (total events = 741067)
+[247898.593437] CPU2: Package temperature above threshold, cpu clock throttled (total events = 740840)
+[247898.593440] CPU1: Package temperature above threshold, cpu clock throttled (total events = 740861)
+[247898.593445] CPU0: Package temperature above threshold, cpu clock throttled (total events = 740958)
+[247898.594476] CPU1: Core temperature/speed normal
+[247898.594477] CPU0: Core temperature/speed normal
+[247898.594478] CPU3: Package temperature/speed normal
+[247898.594479] CPU2: Package temperature/speed normal
+[247898.594480] CPU0: Package temperature/speed normal
+[247898.594482] CPU1: Package temperature/speed normal
+[248214.282171] CPU3: Package temperature above threshold, cpu clock throttled (total events = 745707)
+[248214.282173] CPU1: Package temperature above threshold, cpu clock throttled (total events = 745501)
+[248214.282174] CPU2: Package temperature above threshold, cpu clock throttled (total events = 745480)
+[248214.282175] CPU0: Package temperature above threshold, cpu clock throttled (total events = 745598)
+[248214.283201] CPU3: Package temperature/speed normal
+[248214.283202] CPU1: Package temperature/speed normal
+[248214.283203] CPU2: Package temperature/speed normal
+[248214.283204] CPU0: Package temperature/speed normal
+[248525.492540] CPU0: Package temperature above threshold, cpu clock throttled (total events = 746955)
+[248525.492542] CPU3: Package temperature above threshold, cpu clock throttled (total events = 747064)
+[248525.492544] CPU1: Package temperature above threshold, cpu clock throttled (total events = 746858)
+[248525.492545] CPU2: Package temperature above threshold, cpu clock throttled (total events = 746837)
+[248525.493570] CPU3: Package temperature/speed normal
+[248525.493571] CPU2: Package temperature/speed normal
+[248525.493572] CPU1: Package temperature/speed normal
+[248525.493573] CPU0: Package temperature/speed normal
+[248874.938298] CPU0: Core temperature above threshold, cpu clock throttled (total events = 474277)
+[248874.938300] CPU1: Core temperature above threshold, cpu clock throttled (total events = 474219)
+[248874.938305] CPU1: Package temperature above threshold, cpu clock throttled (total events = 748751)
+[248874.938306] CPU3: Package temperature above threshold, cpu clock throttled (total events = 748957)
+[248874.938308] CPU2: Package temperature above threshold, cpu clock throttled (total events = 748730)
+[248874.938309] CPU0: Package temperature above threshold, cpu clock throttled (total events = 748848)
+[248874.940303] CPU0: Core temperature/speed normal
+[248874.940317] CPU1: Core temperature/speed normal
+[248874.940319] CPU1: Package temperature/speed normal
+[248874.940320] CPU0: Package temperature/speed normal
+[248874.940323] CPU2: Package temperature/speed normal
+[248874.940324] CPU3: Package temperature/speed normal
+[249174.942785] CPU1: Core temperature/speed normal
+[249174.942785] CPU0: Core temperature/speed normal
+[249174.942787] CPU2: Package temperature/speed normal
+[249174.942788] CPU3: Package temperature/speed normal
+[249174.942789] CPU0: Package temperature/speed normal
+[249174.942792] CPU1: Package temperature/speed normal
+[249245.962946] CPU2: Core temperature above threshold, cpu clock throttled (total events = 255178)
+[249245.962947] CPU3: Core temperature above threshold, cpu clock throttled (total events = 255178)
+[249245.963947] CPU2: Core temperature/speed normal
+[249245.963960] CPU3: Core temperature/speed normal
+[249496.970147] CPU0: Core temperature above threshold, cpu clock throttled (total events = 477140)
+[249496.970148] CPU1: Core temperature above threshold, cpu clock throttled (total events = 477082)
+[249496.970150] CPU3: Package temperature above threshold, cpu clock throttled (total events = 752119)
+[249496.970152] CPU2: Package temperature above threshold, cpu clock throttled (total events = 751892)
+[249496.970154] CPU1: Package temperature above threshold, cpu clock throttled (total events = 751913)
+[249496.970161] CPU0: Package temperature above threshold, cpu clock throttled (total events = 752010)
+[249496.971158] CPU0: Core temperature/speed normal
+[249496.971161] CPU1: Core temperature/speed normal
+[249496.971166] CPU2: Package temperature/speed normal
+[249496.971170] CPU3: Package temperature/speed normal
+[249496.971188] CPU1: Package temperature/speed normal
+[249496.971189] CPU0: Package temperature/speed normal
+[249800.403541] CPU0: Core temperature above threshold, cpu clock throttled (total events = 479119)
+[249800.403542] CPU1: Core temperature above threshold, cpu clock throttled (total events = 479061)
+[249800.403544] CPU3: Package temperature above threshold, cpu clock throttled (total events = 754335)
+[249800.403546] CPU2: Package temperature above threshold, cpu clock throttled (total events = 754108)
+[249800.403548] CPU1: Package temperature above threshold, cpu clock throttled (total events = 754129)
+[249800.403554] CPU0: Package temperature above threshold, cpu clock throttled (total events = 754226)
+[249800.404572] CPU0: Core temperature/speed normal
+[249800.404573] CPU1: Core temperature/speed normal
+[249800.404575] CPU3: Package temperature/speed normal
+[249800.404576] CPU2: Package temperature/speed normal
+[249800.404577] CPU1: Package temperature/speed normal
+[249800.404579] CPU0: Package temperature/speed normal
+[250124.440566] CPU1: Core temperature above threshold, cpu clock throttled (total events = 485139)
+[250124.440568] CPU0: Core temperature above threshold, cpu clock throttled (total events = 485197)
+[250124.440570] CPU2: Package temperature above threshold, cpu clock throttled (total events = 760693)
+[250124.440573] CPU3: Package temperature above threshold, cpu clock throttled (total events = 760920)
+[250124.440574] CPU0: Package temperature above threshold, cpu clock throttled (total events = 760811)
+[250124.440579] CPU1: Package temperature above threshold, cpu clock throttled (total events = 760714)
+[250124.441599] CPU0: Core temperature/speed normal
+[250124.441600] CPU1: Core temperature/speed normal
+[250124.441601] CPU2: Package temperature/speed normal
+[250124.441602] CPU3: Package temperature/speed normal
+[250124.441603] CPU1: Package temperature/speed normal
+[250124.441605] CPU0: Package temperature/speed normal
+[250430.571213] CPU0: Core temperature above threshold, cpu clock throttled (total events = 487605)
+[250430.571214] CPU1: Core temperature above threshold, cpu clock throttled (total events = 487547)
+[250430.571228] CPU1: Package temperature above threshold, cpu clock throttled (total events = 763615)
+[250430.571232] CPU0: Package temperature above threshold, cpu clock throttled (total events = 763712)
+[250430.571235] CPU3: Package temperature above threshold, cpu clock throttled (total events = 763821)
+[250430.571236] CPU2: Package temperature above threshold, cpu clock throttled (total events = 763594)
+[250430.572204] CPU1: Core temperature/speed normal
+[250430.572217] CPU0: Core temperature/speed normal
+[250430.572219] CPU0: Package temperature/speed normal
+[250430.572220] CPU1: Package temperature/speed normal
+[250430.572224] CPU2: Package temperature/speed normal
+[250430.572225] CPU3: Package temperature/speed normal
+[250744.344501] CPU0: Package temperature above threshold, cpu clock throttled (total events = 764909)
+[250744.344503] CPU3: Package temperature above threshold, cpu clock throttled (total events = 765018)
+[250744.344504] CPU2: Package temperature above threshold, cpu clock throttled (total events = 764791)
+[250744.344506] CPU1: Package temperature above threshold, cpu clock throttled (total events = 764812)
+[250744.345519] CPU2: Package temperature/speed normal
+[250744.345520] CPU3: Package temperature/speed normal
+[250744.345521] CPU1: Package temperature/speed normal
+[250744.345522] CPU0: Package temperature/speed normal
+[251051.590726] CPU0: Core temperature above threshold, cpu clock throttled (total events = 489865)
+[251051.590727] CPU1: Core temperature above threshold, cpu clock throttled (total events = 489807)
+[251051.590731] CPU2: Package temperature above threshold, cpu clock throttled (total events = 766628)
+[251051.590732] CPU3: Package temperature above threshold, cpu clock throttled (total events = 766855)
+[251051.590736] CPU1: Package temperature above threshold, cpu clock throttled (total events = 766649)
+[251051.590743] CPU0: Package temperature above threshold, cpu clock throttled (total events = 766746)
+[251051.591730] CPU0: Core temperature/speed normal
+[251051.591733] CPU1: Core temperature/speed normal
+[251051.591738] CPU2: Package temperature/speed normal
+[251051.591757] CPU3: Package temperature/speed normal
+[251051.591758] CPU1: Package temperature/speed normal
+[251051.591760] CPU0: Package temperature/speed normal
+[251076.258729] CPU3: Core temperature above threshold, cpu clock throttled (total events = 257797)
+[251076.258731] CPU2: Core temperature above threshold, cpu clock throttled (total events = 257797)
+[251076.259765] CPU3: Core temperature/speed normal
+[251076.259766] CPU2: Core temperature/speed normal
+[251361.714576] CPU2: Package temperature above threshold, cpu clock throttled (total events = 769531)
+[251361.714577] CPU3: Package temperature above threshold, cpu clock throttled (total events = 769758)
+[251361.714580] CPU0: Package temperature above threshold, cpu clock throttled (total events = 769649)
+[251361.714581] CPU1: Package temperature above threshold, cpu clock throttled (total events = 769552)
+[251361.715596] CPU2: Package temperature/speed normal
+[251361.715597] CPU0: Package temperature/speed normal
+[251361.715598] CPU1: Package temperature/speed normal
+[251361.715599] CPU3: Package temperature/speed normal
+[251394.888252] CPU2: Core temperature above threshold, cpu clock throttled (total events = 258795)
+[251394.888253] CPU3: Core temperature above threshold, cpu clock throttled (total events = 258795)
+[251394.889268] CPU2: Core temperature/speed normal
+[251394.889281] CPU3: Core temperature/speed normal
+[251669.904955] CPU1: Core temperature above threshold, cpu clock throttled (total events = 494408)
+[251669.904956] CPU0: Core temperature above threshold, cpu clock throttled (total events = 494466)
+[251669.904958] CPU3: Package temperature above threshold, cpu clock throttled (total events = 772911)
+[251669.904959] CPU2: Package temperature above threshold, cpu clock throttled (total events = 772684)
+[251669.904962] CPU0: Package temperature above threshold, cpu clock throttled (total events = 772802)
+[251669.904965] CPU1: Package temperature above threshold, cpu clock throttled (total events = 772705)
+[251669.905988] CPU1: Core temperature/speed normal
+[251669.906002] CPU0: Core temperature/speed normal
+[251669.906003] CPU3: Package temperature/speed normal
+[251669.906004] CPU0: Package temperature/speed normal
+[251669.906005] CPU1: Package temperature/speed normal
+[251669.906012] CPU2: Package temperature/speed normal
+[251698.541170] CPU2: Core temperature above threshold, cpu clock throttled (total events = 259437)
+[251698.541172] CPU3: Core temperature above threshold, cpu clock throttled (total events = 259437)
+[251698.542177] CPU3: Core temperature/speed normal
+[251698.542190] CPU2: Core temperature/speed normal
+[251979.252043] CPU3: Package temperature above threshold, cpu clock throttled (total events = 775281)
+[251979.252045] CPU2: Package temperature above threshold, cpu clock throttled (total events = 775054)
+[251979.252047] CPU0: Package temperature above threshold, cpu clock throttled (total events = 775172)
+[251979.252048] CPU1: Package temperature above threshold, cpu clock throttled (total events = 775075)
+[251979.253069] CPU3: Package temperature/speed normal
+[251979.253071] CPU2: Package temperature/speed normal
+[251979.253072] CPU0: Package temperature/speed normal
+[251979.253073] CPU1: Package temperature/speed normal
+[252295.193356] CPU1: Core temperature above threshold, cpu clock throttled (total events = 498592)
+[252295.193357] CPU0: Core temperature above threshold, cpu clock throttled (total events = 498650)
+[252295.193362] CPU0: Package temperature above threshold, cpu clock throttled (total events = 778240)
+[252295.193365] CPU3: Package temperature above threshold, cpu clock throttled (total events = 778349)
+[252295.193366] CPU2: Package temperature above threshold, cpu clock throttled (total events = 778122)
+[252295.193367] CPU1: Package temperature above threshold, cpu clock throttled (total events = 778143)
+[252295.194368] CPU1: Core temperature/speed normal
+[252295.194381] CPU0: Core temperature/speed normal
+[252295.194383] CPU0: Package temperature/speed normal
+[252295.194384] CPU1: Package temperature/speed normal
+[252295.194386] CPU3: Package temperature/speed normal
+[252295.194386] CPU2: Package temperature/speed normal
+[252601.965452] CPU2: Package temperature above threshold, cpu clock throttled (total events = 780012)
+[252601.965454] CPU1: Package temperature above threshold, cpu clock throttled (total events = 780033)
+[252601.965455] CPU0: Package temperature above threshold, cpu clock throttled (total events = 780130)
+[252601.965457] CPU3: Package temperature above threshold, cpu clock throttled (total events = 780239)
+[252601.966501] CPU2: Package temperature/speed normal
+[252601.966502] CPU1: Package temperature/speed normal
+[252601.966503] CPU3: Package temperature/speed normal
+[252601.966504] CPU0: Package temperature/speed normal
+[252906.803121] CPU3: Package temperature above threshold, cpu clock throttled (total events = 793298)
+[252906.803122] CPU2: Package temperature above threshold, cpu clock throttled (total events = 793071)
+[252906.803125] CPU1: Package temperature above threshold, cpu clock throttled (total events = 793092)
+[252906.803127] CPU0: Package temperature above threshold, cpu clock throttled (total events = 793189)
+[252906.804135] CPU3: Package temperature/speed normal
+[252906.804136] CPU2: Package temperature/speed normal
+[252906.804137] CPU0: Package temperature/speed normal
+[252906.804138] CPU1: Package temperature/speed normal
+[253226.146273] CPU0: Core temperature above threshold, cpu clock throttled (total events = 518309)
+[253226.146275] CPU1: Core temperature above threshold, cpu clock throttled (total events = 518251)
+[253226.146277] CPU3: Package temperature above threshold, cpu clock throttled (total events = 804707)
+[253226.146278] CPU2: Package temperature above threshold, cpu clock throttled (total events = 804480)
+[253226.146281] CPU1: Package temperature above threshold, cpu clock throttled (total events = 804501)
+[253226.146286] CPU0: Package temperature above threshold, cpu clock throttled (total events = 804598)
+[253226.147292] CPU1: Core temperature/speed normal
+[253226.147305] CPU0: Core temperature/speed normal
+[253226.147306] CPU3: Package temperature/speed normal
+[253226.147307] CPU2: Package temperature/speed normal
+[253226.147308] CPU0: Package temperature/speed normal
+[253226.147310] CPU1: Package temperature/speed normal
+[253277.762600] CPU3: Core temperature above threshold, cpu clock throttled (total events = 268122)
+[253277.762601] CPU2: Core temperature above threshold, cpu clock throttled (total events = 268122)
+[253277.763629] CPU3: Core temperature/speed normal
+[253277.763630] CPU2: Core temperature/speed normal
+[253400.903477] wlp2s0: deauthenticating from 54:e6:fc:db:95:b4 by local choice (Reason: 3=DEAUTH_LEAVING)
+[253400.914320] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[253401.423422] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[253404.404222] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[253407.837735] wlp2s0: authenticate with 54:e6:fc:db:95:b4
+[253407.840441] wlp2s0: send auth to 54:e6:fc:db:95:b4 (try 1/3)
+[253407.843166] wlp2s0: authenticated
+[253407.844174] wlp2s0: associate with 54:e6:fc:db:95:b4 (try 1/3)
+[253407.847851] wlp2s0: RX AssocResp from 54:e6:fc:db:95:b4 (capab=0x31 status=0 aid=5)
+[253407.849161] wlp2s0: associated
+[253407.865854] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+[253443.171666] SGI XFS with ACLs, security attributes, realtime, no debug enabled
+[253443.190256] JFS: nTxBlock = 8192, nTxLock = 65536
+[253443.214939] ntfs: driver 2.1.32 [Flags: R/O MODULE].
+[253443.248123] QNX4 filesystem 0.2.3 registered.
+[253443.323850] raid6: sse2x1   gen()  5559 MB/s
+[253443.391849] raid6: sse2x1   xor()  3493 MB/s
+[253443.459845] raid6: sse2x2   gen()  6107 MB/s
+[253443.527842] raid6: sse2x2   xor()  5334 MB/s
+[253443.595836] raid6: sse2x4   gen() 11858 MB/s
+[253443.663841] raid6: sse2x4   xor()  7462 MB/s
+[253443.731839] raid6: avx2x1   gen()  9299 MB/s
+[253443.799836] raid6: avx2x1   xor()  8264 MB/s
+[253443.867838] raid6: avx2x2   gen() 10753 MB/s
+[253443.935839] raid6: avx2x2   xor()  6523 MB/s
+[253444.003840] raid6: avx2x4   gen() 16581 MB/s
+[253444.071836] raid6: avx2x4   xor()  7765 MB/s
+[253444.071839] raid6: using algorithm avx2x4 gen() 16581 MB/s
+[253444.071840] raid6: .... xor() 7765 MB/s, rmw enabled
+[253444.071841] raid6: using avx2x2 recovery algorithm
+[253444.085183] xor: automatically using best checksumming function   avx       
+[253444.136875] Btrfs loaded, crc32c=crc32c-intel
+[253550.335662] CPU3: Package temperature above threshold, cpu clock throttled (total events = 825063)
+[253550.335663] CPU2: Package temperature above threshold, cpu clock throttled (total events = 824836)
+[253550.335666] CPU0: Package temperature above threshold, cpu clock throttled (total events = 824954)
+[253550.335668] CPU1: Package temperature above threshold, cpu clock throttled (total events = 824857)
+[253550.336690] CPU3: Package temperature/speed normal
+[253550.336691] CPU2: Package temperature/speed normal
+[253550.336692] CPU1: Package temperature/speed normal
+[253550.336694] CPU0: Package temperature/speed normal
+[253854.894660] CPU1: Package temperature above threshold, cpu clock throttled (total events = 827566)
+[253854.894662] CPU3: Package temperature above threshold, cpu clock throttled (total events = 827772)
+[253854.894664] CPU2: Package temperature above threshold, cpu clock throttled (total events = 827545)
+[253854.894665] CPU0: Package temperature above threshold, cpu clock throttled (total events = 827663)
+[253854.895688] CPU3: Package temperature/speed normal
+[253854.895689] CPU2: Package temperature/speed normal
+[253854.895690] CPU1: Package temperature/speed normal
+[253854.895691] CPU0: Package temperature/speed normal
+[253909.549988] CPU2: Core temperature above threshold, cpu clock throttled (total events = 275695)
+[253909.549990] CPU3: Core temperature above threshold, cpu clock throttled (total events = 275695)
+[253909.551012] CPU2: Core temperature/speed normal
+[253909.551025] CPU3: Core temperature/speed normal
+[254154.899130] CPU2: Package temperature above threshold, cpu clock throttled (total events = 829291)
+[254154.899132] CPU0: Package temperature above threshold, cpu clock throttled (total events = 829409)
+[254154.899133] CPU3: Package temperature above threshold, cpu clock throttled (total events = 829518)
+[254154.899134] CPU1: Package temperature above threshold, cpu clock throttled (total events = 829312)
+[254154.900166] CPU2: Package temperature/speed normal
+[254154.900167] CPU0: Package temperature/speed normal
+[254154.900168] CPU3: Package temperature/speed normal
+[254154.900169] CPU1: Package temperature/speed normal
+[254214.813613] CPU1: Core temperature above threshold, cpu clock throttled (total events = 535813)
+[254214.813614] CPU0: Core temperature above threshold, cpu clock throttled (total events = 535871)
+[254214.814650] CPU1: Core temperature/speed normal
+[254214.814663] CPU0: Core temperature/speed normal
+[254465.617364] CPU0: Package temperature above threshold, cpu clock throttled (total events = 831798)
+[254465.617365] CPU1: Package temperature above threshold, cpu clock throttled (total events = 831701)
+[254465.617369] CPU2: Package temperature above threshold, cpu clock throttled (total events = 831680)
+[254465.617370] CPU3: Package temperature above threshold, cpu clock throttled (total events = 831907)
+[254465.618388] CPU0: Package temperature/speed normal
+[254465.618389] CPU2: Package temperature/speed normal
+[254465.618390] CPU1: Package temperature/speed normal
+[254465.618391] CPU3: Package temperature/speed normal
+[254788.482675] CPU2: Package temperature above threshold, cpu clock throttled (total events = 834458)
+[254788.482677] CPU0: Package temperature above threshold, cpu clock throttled (total events = 834576)
+[254788.482678] CPU3: Package temperature above threshold, cpu clock throttled (total events = 834685)
+[254788.482680] CPU1: Package temperature above threshold, cpu clock throttled (total events = 834479)
+[254788.483716] CPU2: Package temperature/speed normal
+[254788.483717] CPU0: Package temperature/speed normal
+[254788.483718] CPU1: Package temperature/speed normal
+[254788.483719] CPU3: Package temperature/speed normal
+[254863.593299] CPU3: Core temperature above threshold, cpu clock throttled (total events = 277414)
+[254863.593300] CPU2: Core temperature above threshold, cpu clock throttled (total events = 277414)
+[254863.594327] CPU3: Core temperature/speed normal
+[254863.594341] CPU2: Core temperature/speed normal
+[255095.620659] CPU1: Package temperature above threshold, cpu clock throttled (total events = 835800)
+[255095.620660] CPU0: Package temperature above threshold, cpu clock throttled (total events = 835897)
+[255095.620665] CPU3: Package temperature above threshold, cpu clock throttled (total events = 836006)
+[255095.620667] CPU2: Package temperature above threshold, cpu clock throttled (total events = 835779)
+[255095.621673] CPU1: Package temperature/speed normal
+[255095.621674] CPU0: Package temperature/speed normal
+[255095.621679] CPU3: Package temperature/speed normal
+[255095.621680] CPU2: Package temperature/speed normal
+[255174.785648] CPU2: Core temperature above threshold, cpu clock throttled (total events = 277791)
+[255174.785649] CPU3: Core temperature above threshold, cpu clock throttled (total events = 277791)
+[255174.787653] CPU2: Core temperature/speed normal
+[255174.787667] CPU3: Core temperature/speed normal
+[255400.642715] CPU3: Package temperature above threshold, cpu clock throttled (total events = 838162)
+[255400.642716] CPU2: Package temperature above threshold, cpu clock throttled (total events = 837935)
+[255400.642718] CPU1: Package temperature above threshold, cpu clock throttled (total events = 837956)
+[255400.642719] CPU0: Package temperature above threshold, cpu clock throttled (total events = 838053)
+[255400.643735] CPU0: Package temperature/speed normal
+[255400.643736] CPU1: Package temperature/speed normal
+[255400.643737] CPU3: Package temperature/speed normal
+[255400.643738] CPU2: Package temperature/speed normal
+[255474.722959] CPU0: Core temperature above threshold, cpu clock throttled (total events = 543265)
+[255474.722961] CPU1: Core temperature above threshold, cpu clock throttled (total events = 543207)
+[255474.723979] CPU1: Core temperature/speed normal
+[255474.723980] CPU0: Core temperature/speed normal
+[255474.783089] CPU3: Core temperature above threshold, cpu clock throttled (total events = 278577)
+[255474.783090] CPU2: Core temperature above threshold, cpu clock throttled (total events = 278577)
+[255474.785086] CPU3: Core temperature/speed normal
+[255474.785086] CPU2: Core temperature/speed normal
+[255705.161622] CPU1: Package temperature above threshold, cpu clock throttled (total events = 840898)
+[255705.161623] CPU0: Package temperature above threshold, cpu clock throttled (total events = 840995)
+[255705.161625] CPU3: Package temperature above threshold, cpu clock throttled (total events = 841104)
+[255705.161627] CPU2: Package temperature above threshold, cpu clock throttled (total events = 840877)
+[255705.162654] CPU1: Package temperature/speed normal
+[255705.162654] CPU0: Package temperature/speed normal
+[255705.162656] CPU3: Package temperature/speed normal
+[255705.162657] CPU2: Package temperature/speed normal
+[255787.222298] CPU0: Core temperature above threshold, cpu clock throttled (total events = 545339)
+[255787.222299] CPU1: Core temperature above threshold, cpu clock throttled (total events = 545281)
+[255787.223316] CPU1: Core temperature/speed normal
+[255787.223329] CPU0: Core temperature/speed normal
+[256011.690178] CPU2: Package temperature above threshold, cpu clock throttled (total events = 846193)
+[256011.690179] CPU3: Package temperature above threshold, cpu clock throttled (total events = 846420)
+[256011.690183] CPU0: Package temperature above threshold, cpu clock throttled (total events = 846311)
+[256011.690184] CPU1: Package temperature above threshold, cpu clock throttled (total events = 846214)
+[256011.691189] CPU2: Package temperature/speed normal
+[256011.691189] CPU3: Package temperature/speed normal
+[256011.691192] CPU0: Package temperature/speed normal
+[256011.691192] CPU1: Package temperature/speed normal
+[256116.004315] CPU3: Core temperature above threshold, cpu clock throttled (total events = 280220)
+[256116.004317] CPU2: Core temperature above threshold, cpu clock throttled (total events = 280220)
+[256116.005323] CPU3: Core temperature/speed normal
+[256116.005336] CPU2: Core temperature/speed normal
+[256334.895286] CPU2: Package temperature above threshold, cpu clock throttled (total events = 849958)
+[256334.895287] CPU3: Package temperature above threshold, cpu clock throttled (total events = 850185)
+[256334.895291] CPU1: Package temperature above threshold, cpu clock throttled (total events = 849979)
+[256334.895292] CPU0: Package temperature above threshold, cpu clock throttled (total events = 850076)
+[256334.897305] CPU2: Package temperature/speed normal
+[256334.897306] CPU3: Package temperature/speed normal
+[256334.897308] CPU0: Package temperature/speed normal
+[256334.897309] CPU1: Package temperature/speed normal
+[256434.879379] CPU0: Core temperature above threshold, cpu clock throttled (total events = 552222)
+[256434.879380] CPU1: Core temperature above threshold, cpu clock throttled (total events = 552164)
+[256434.880415] CPU0: Core temperature/speed normal
+[256434.880429] CPU1: Core temperature/speed normal
+[256674.961340] CPU0: Package temperature above threshold, cpu clock throttled (total events = 850731)
+[256674.961341] CPU1: Package temperature above threshold, cpu clock throttled (total events = 850634)
+[256674.961343] CPU3: Package temperature above threshold, cpu clock throttled (total events = 850840)
+[256674.961344] CPU2: Package temperature above threshold, cpu clock throttled (total events = 850613)
+[256674.963377] CPU0: Package temperature/speed normal
+[256674.963378] CPU1: Package temperature/speed normal
+[256674.963379] CPU3: Package temperature/speed normal
+[256674.963380] CPU2: Package temperature/speed normal
+[256760.501032] e1000e: eth0 NIC Link is Down
+[256760.662015] PM: suspend entry (deep)
+[256760.662017] PM: Syncing filesystems ... done.
+[256760.713045] (NULL device *): firmware: direct-loading firmware intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+[256760.717908] (NULL device *): firmware: direct-loading firmware iwlwifi-7260-17.ucode
+[256760.718090] Freezing user space processes ... (elapsed 0.001 seconds) done.
+[256760.720071] OOM killer disabled.
+[256760.720072] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+[256760.721427] Suspending console(s) (use no_console_suspend to debug)
+[256760.721848] wlp2s0: deauthenticating from 54:e6:fc:db:95:b4 by local choice (Reason: 3=DEAUTH_LEAVING)
+[256760.866892] sd 4:0:0:0: [sda] Synchronizing SCSI cache
+[256760.870329] sd 4:0:0:0: [sda] Stopping disk
+[256760.900346] e1000e: EEE TX LPI TIMER: 00000011
+[256761.099665] ACPI: EC: interrupt blocked
+[256761.119343] ACPI: Preparing to enter system sleep state S3
+[256761.120211] ACPI: EC: event blocked
+[256761.120212] ACPI: EC: EC stopped
+[256761.120213] PM: Saving platform NVS memory
+[256761.120238] Disabling non-boot CPUs ...
+[256761.135337] IRQ 32: no longer affine to CPU1
+[256761.136353] smpboot: CPU 1 is now offline
+[256761.167324] IRQ 31: no longer affine to CPU2
+[256761.168339] smpboot: CPU 2 is now offline
+[256761.195206] IRQ 18: no longer affine to CPU3
+[256761.195220] IRQ 23: no longer affine to CPU3
+[256761.195225] IRQ 27: no longer affine to CPU3
+[256761.196239] smpboot: CPU 3 is now offline
+[256761.201608] ACPI: Low-level resume complete
+[256761.201657] ACPI: EC: EC started
+[256761.201658] PM: Restoring platform NVS memory
+[256761.204344] Enabling non-boot CPUs ...
+[256761.204380] x86: Booting SMP configuration:
+[256761.204381] smpboot: Booting Node 0 Processor 1 APIC 0x1
+[256761.204819]  cache: parent cpu1 should not be sleeping
+[256761.205034] CPU1 is up
+[256761.205059] smpboot: Booting Node 0 Processor 2 APIC 0x2
+[256761.206854]  cache: parent cpu2 should not be sleeping
+[256761.207076] CPU2 is up
+[256761.207096] smpboot: Booting Node 0 Processor 3 APIC 0x3
+[256761.207486]  cache: parent cpu3 should not be sleeping
+[256761.207714] CPU3 is up
+[256761.210765] ACPI: Waking up from system sleep state S3
+[256761.216165] ACPI: EC: interrupt unblocked
+[256761.237695] ACPI: EC: event unblocked
+[256761.246361] tpm tpm0: A TPM error (7) occurred attempting to read a pcr value
+[256761.246365] tpm tpm0: TPM is disabled/deactivated (0x7)
+[256761.252348] sd 4:0:0:0: [sda] Starting disk
+[256761.348114] usb 4-4: Disable of device-initiated U1 failed.
+[256761.351582] usb 4-4: Disable of device-initiated U2 failed.
+[256761.544838] usb 4-4: reset SuperSpeed Gen 1 USB device number 9 using xhci_hcd
+[256761.564905] usb 4-4: device firmware changed
+[256761.692784] usb 2-8: reset full-speed USB device number 3 using xhci_hcd
+[256761.868807] ata5: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+[256761.868841] ata3: SATA link down (SStatus 0 SControl 300)
+[256761.868871] ata1: SATA link down (SStatus 0 SControl 300)
+[256761.871222] ata5.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+[256761.871228] ata5.00: supports DRM functions and may not be fully accessible
+[256761.965163] ata5.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+[256761.965169] ata5.00: supports DRM functions and may not be fully accessible
+[256761.968703] usb 2-5: reset full-speed USB device number 2 using xhci_hcd
+[256762.030310] ata5.00: configured for UDMA/133
+[256762.046082] ata5.00: Enabling discard_zeroes_data
+[256762.244679] usb 2-11: reset high-speed USB device number 6 using xhci_hcd
+[256762.520635] usb 2-12: reset high-speed USB device number 5 using xhci_hcd
+[256762.751134] usb 2-5.2: reset full-speed USB device number 4 using xhci_hcd
+[256764.678434] psmouse serio2: synaptics: queried max coordinates: x [..5680], y [..4730]
+[256764.770422] psmouse serio2: synaptics: queried min coordinates: x [1354..], y [1280..]
+[256766.820683] usb 2-10: reset high-speed USB device number 42 using xhci_hcd
+[256766.968724] usb 2-10: device firmware changed
+[256766.969702] OOM killer enabled.
+[256766.969704] Restarting tasks ... 
+[256766.969832] usb 4-4: USB disconnect, device number 9
+[256767.002073] usb 2-10: USB disconnect, device number 42
+[256767.002077] usb 2-10.1: USB disconnect, device number 44
+[256767.006352] usb 2-10.2: USB disconnect, device number 45
+[256767.006370] usb 2-10.2.1: USB disconnect, device number 46
+[256767.011016] usb 2-10.3: USB disconnect, device number 47
+[256767.011669] usb 2-10.4: USB disconnect, device number 43
+[256767.137526] done.
+[256767.188331] usb 4-4: new SuperSpeed Gen 1 USB device number 10 using xhci_hcd
+[256767.208529] usb 4-4: New USB device found, idVendor=0451, idProduct=8041, bcdDevice= 1.00
+[256767.208532] usb 4-4: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[256767.209766] hub 4-4:1.0: USB hub found
+[256767.209788] hub 4-4:1.0: 4 ports detected
+[256767.214168] PM: suspend exit
+[256767.331158] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[256767.336275] usb 2-10: new high-speed USB device number 48 using xhci_hcd
+[256767.389517] mmc0: cannot verify signal voltage switch
+[256767.484590] usb 2-10: New USB device found, idVendor=0451, idProduct=8043, bcdDevice= 1.00
+[256767.484593] usb 2-10: New USB device strings: Mfr=0, Product=0, SerialNumber=1
+[256767.484594] usb 2-10: SerialNumber: 55000871BF24
+[256767.485420] hub 2-10:1.0: USB hub found
+[256767.485442] hub 2-10:1.0: 4 ports detected
+[256767.540542] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[256767.545548] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[256767.546523] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[256767.548775] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[256767.738889] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[256767.772344] usb 2-10.2: new low-speed USB device number 49 using xhci_hcd
+[256767.877716] usb 2-10.2: New USB device found, idVendor=1a81, idProduct=1002, bcdDevice= 0.01
+[256767.877718] usb 2-10.2: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[256767.877720] usb 2-10.2: Product: Wireless Dongle
+[256767.877721] usb 2-10.2: Manufacturer: G-Tech
+[256767.885828] input: G-Tech Wireless Dongle as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2:1.0/0003:1A81:1002.0019/input/input215
+[256767.944528] hid-generic 0003:1A81:1002.0019: input,hidraw0: USB HID v1.11 Keyboard [G-Tech Wireless Dongle] on usb-0000:00:14.0-10.2/input0
+[256767.950303] input: G-Tech Wireless Dongle Mouse as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2:1.1/0003:1A81:1002.001A/input/input216
+[256767.950395] input: G-Tech Wireless Dongle as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2:1.1/0003:1A81:1002.001A/input/input217
+[256767.950468] input: G-Tech Wireless Dongle Consumer Control as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2:1.1/0003:1A81:1002.001A/input/input218
+[256768.020764] input: G-Tech Wireless Dongle System Control as /devices/pci0000:00/0000:00:14.0/usb2/2-10/2-10.2/2-10.2:1.1/0003:1A81:1002.001A/input/input219
+[256768.020888] hid-generic 0003:1A81:1002.001A: input,hiddev1,hidraw1: USB HID v1.11 Mouse [G-Tech Wireless Dongle] on usb-0000:00:14.0-10.2/input1
+[256768.085001] Bluetooth: hci0: read Intel version: 3707100180012d0d00
+[256768.085006] Bluetooth: hci0: Intel Bluetooth firmware file: intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+[256768.170544] audit: type=1326 audit(1544131826.964:119): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=2443 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7fe8817 code=0x0
+[256768.175920] audit: type=1326 audit(1544131826.968:120): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=2446 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7fd0817 code=0x0
+[256768.196590] audit: type=1326 audit(1544131826.992:121): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=2444 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7f45817 code=0x0
+[256768.199111] audit: type=1326 audit(1544131826.992:122): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=2445 comm="libinput-model-" exe="/lib/udev/libinput-model-quirks" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7fa8817 code=0x0
+[256768.216567] audit: type=1326 audit(1544131827.012:123): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=2448 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7f43817 code=0x0
+[256768.224809] audit: type=1326 audit(1544131827.020:124): auid=4294967295 uid=0 gid=0 ses=4294967295 subj==unconfined pid=2450 comm="libinput-device" exe="/lib/udev/libinput-device-group" sig=31 arch=40000003 syscall=45 compat=1 ip=0xf7fe8817 code=0x0
+[256768.260997] Bluetooth: hci0: Intel firmware patch completed and activated
+[256771.062713] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[256772.598422] pci_bus 0000:01: Allocating resources
+[256772.598446] pci_bus 0000:02: Allocating resources
+[256772.598475] pci_bus 0000:03: Allocating resources
+[256774.436420] wlp2s0: authenticate with 10:fe:ed:bb:49:bf
+[256774.439527] wlp2s0: send auth to 10:fe:ed:bb:49:bf (try 1/3)
+[256774.442207] wlp2s0: authenticated
+[256774.444244] wlp2s0: associate with 10:fe:ed:bb:49:bf (try 1/3)
+[256774.448305] wlp2s0: RX AssocResp from 10:fe:ed:bb:49:bf (capab=0x31 status=0 aid=5)
+[256774.449463] wlp2s0: associated
+[256774.480508] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+[256984.455324] CPU0: Package temperature above threshold, cpu clock throttled (total events = 851760)
+[256984.455326] CPU1: Package temperature above threshold, cpu clock throttled (total events = 851663)
+[256984.455328] CPU2: Package temperature above threshold, cpu clock throttled (total events = 851642)
+[256984.455329] CPU3: Package temperature above threshold, cpu clock throttled (total events = 851869)
+[256984.457357] CPU1: Package temperature/speed normal
+[256984.457358] CPU0: Package temperature/speed normal
+[256984.457360] CPU3: Package temperature/speed normal
+[256984.457361] CPU2: Package temperature/speed normal
+[257040.139050] CPU1: Core temperature above threshold, cpu clock throttled (total events = 554436)
+[257040.139052] CPU0: Core temperature above threshold, cpu clock throttled (total events = 554494)
+[257040.140064] CPU1: Core temperature/speed normal
+[257040.140078] CPU0: Core temperature/speed normal
+[257307.496060] CPU2: Package temperature above threshold, cpu clock throttled (total events = 854244)
+[257307.496062] CPU0: Package temperature above threshold, cpu clock throttled (total events = 854362)
+[257307.496063] CPU1: Package temperature above threshold, cpu clock throttled (total events = 854265)
+[257307.496065] CPU3: Package temperature above threshold, cpu clock throttled (total events = 854471)
+[257307.497076] CPU1: Package temperature/speed normal
+[257307.497077] CPU0: Package temperature/speed normal
+[257307.497078] CPU2: Package temperature/speed normal
+[257307.497079] CPU3: Package temperature/speed normal
+[257340.224697] CPU1: Core temperature above threshold, cpu clock throttled (total events = 556278)
+[257340.224698] CPU0: Core temperature above threshold, cpu clock throttled (total events = 556336)
+[257340.225707] CPU1: Core temperature/speed normal
+[257340.225721] CPU0: Core temperature/speed normal
+[257634.965006] CPU1: Package temperature above threshold, cpu clock throttled (total events = 856778)
+[257634.965007] CPU0: Package temperature above threshold, cpu clock throttled (total events = 856875)
+[257634.965009] CPU3: Package temperature above threshold, cpu clock throttled (total events = 856984)
+[257634.965010] CPU2: Package temperature above threshold, cpu clock throttled (total events = 856757)
+[257634.966037] CPU1: Package temperature/speed normal
+[257634.966038] CPU3: Package temperature/speed normal
+[257634.966039] CPU2: Package temperature/speed normal
+[257634.966040] CPU0: Package temperature/speed normal
+[257655.872337] CPU1: Core temperature above threshold, cpu clock throttled (total events = 558529)
+[257655.872338] CPU0: Core temperature above threshold, cpu clock throttled (total events = 558587)
+[257655.873375] CPU1: Core temperature/speed normal
+[257655.873376] CPU0: Core temperature/speed normal
+[257935.192001] CPU0: Package temperature above threshold, cpu clock throttled (total events = 859232)
+[257935.192002] CPU1: Package temperature above threshold, cpu clock throttled (total events = 859135)
+[257935.192006] CPU2: Package temperature above threshold, cpu clock throttled (total events = 859114)
+[257935.192008] CPU3: Package temperature above threshold, cpu clock throttled (total events = 859341)
+[257935.193014] CPU0: Package temperature/speed normal
+[257935.193016] CPU2: Package temperature/speed normal
+[257935.193017] CPU3: Package temperature/speed normal
+[257935.193018] CPU1: Package temperature/speed normal
+[257955.917889] CPU0: Core temperature above threshold, cpu clock throttled (total events = 560828)
+[257955.917890] CPU1: Core temperature above threshold, cpu clock throttled (total events = 560770)
+[257955.918922] CPU1: Core temperature/speed normal
+[257955.918923] CPU0: Core temperature/speed normal
+[258235.187451] CPU3: Package temperature above threshold, cpu clock throttled (total events = 862026)
+[258235.187452] CPU2: Package temperature above threshold, cpu clock throttled (total events = 861799)
+[258235.187454] CPU1: Package temperature above threshold, cpu clock throttled (total events = 861820)
+[258235.187456] CPU0: Package temperature above threshold, cpu clock throttled (total events = 861917)
+[258235.190481] CPU3: Package temperature/speed normal
+[258235.190481] CPU2: Package temperature/speed normal
+[258235.190483] CPU1: Package temperature/speed normal
+[258235.190484] CPU0: Package temperature/speed normal
+[258284.051392] CPU0: Core temperature above threshold, cpu clock throttled (total events = 563614)
+[258284.051393] CPU1: Core temperature above threshold, cpu clock throttled (total events = 563556)
+[258284.052419] CPU0: Core temperature/speed normal
+[258284.052420] CPU1: Core temperature/speed normal
+[258535.239035] CPU3: Package temperature above threshold, cpu clock throttled (total events = 865633)
+[258535.239036] CPU2: Package temperature above threshold, cpu clock throttled (total events = 865406)
+[258535.239041] CPU0: Package temperature above threshold, cpu clock throttled (total events = 865524)
+[258535.239043] CPU1: Package temperature above threshold, cpu clock throttled (total events = 865427)
+[258535.240061] CPU2: Package temperature/speed normal
+[258535.240061] CPU3: Package temperature/speed normal
+[258535.240067] CPU1: Package temperature/speed normal
+[258535.240068] CPU0: Package temperature/speed normal
+[258588.286650] CPU0: Core temperature above threshold, cpu clock throttled (total events = 568173)
+[258588.286652] CPU1: Core temperature above threshold, cpu clock throttled (total events = 568115)
+[258588.287686] CPU0: Core temperature/speed normal
+[258588.287686] CPU1: Core temperature/speed normal
+[258657.064617] CPU3: Core temperature above threshold, cpu clock throttled (total events = 281554)
+[258657.064618] CPU2: Core temperature above threshold, cpu clock throttled (total events = 281554)
+[258657.065648] CPU3: Core temperature/speed normal
+[258657.065650] CPU2: Core temperature/speed normal
+[258839.252771] CPU0: Package temperature above threshold, cpu clock throttled (total events = 871293)
+[258839.252773] CPU2: Package temperature above threshold, cpu clock throttled (total events = 871175)
+[258839.252774] CPU3: Package temperature above threshold, cpu clock throttled (total events = 871402)
+[258839.252775] CPU1: Package temperature above threshold, cpu clock throttled (total events = 871196)
+[258839.255803] CPU0: Package temperature/speed normal
+[258839.255804] CPU2: Package temperature/speed normal
+[258839.255805] CPU3: Package temperature/speed normal
+[258839.255806] CPU1: Package temperature/speed normal
+[258889.032826] CPU1: Core temperature above threshold, cpu clock throttled (total events = 572996)
+[258889.032828] CPU0: Core temperature above threshold, cpu clock throttled (total events = 573054)
+[258889.033867] CPU1: Core temperature/speed normal
+[258889.033868] CPU0: Core temperature/speed normal
+[259165.365593] CPU0: Package temperature above threshold, cpu clock throttled (total events = 874737)
+[259165.365595] CPU3: Package temperature above threshold, cpu clock throttled (total events = 874846)
+[259165.365596] CPU1: Package temperature above threshold, cpu clock throttled (total events = 874640)
+[259165.365597] CPU2: Package temperature above threshold, cpu clock throttled (total events = 874619)
+[259165.366620] CPU1: Package temperature/speed normal
+[259165.366621] CPU0: Package temperature/speed normal
+[259165.366622] CPU3: Package temperature/speed normal
+[259165.366623] CPU2: Package temperature/speed normal
+[259195.553354] CPU0: Core temperature above threshold, cpu clock throttled (total events = 576031)
+[259195.553355] CPU1: Core temperature above threshold, cpu clock throttled (total events = 575973)
+[259195.554390] CPU0: Core temperature/speed normal
+[259195.554392] CPU1: Core temperature/speed normal
+[259478.677828] CPU1: Package temperature above threshold, cpu clock throttled (total events = 876974)
+[259478.677829] CPU0: Package temperature above threshold, cpu clock throttled (total events = 877071)
+[259478.677832] CPU3: Package temperature above threshold, cpu clock throttled (total events = 877180)
+[259478.677834] CPU2: Package temperature above threshold, cpu clock throttled (total events = 876953)
+[259478.678850] CPU0: Package temperature/speed normal
+[259478.678851] CPU1: Package temperature/speed normal
+[259478.678857] CPU3: Package temperature/speed normal
+[259478.678858] CPU2: Package temperature/speed normal
+[259495.549859] CPU1: Core temperature/speed normal
+[259495.549860] CPU0: Core temperature/speed normal
+[259788.491975] CPU0: Package temperature above threshold, cpu clock throttled (total events = 879927)
+[259788.491976] CPU1: Package temperature above threshold, cpu clock throttled (total events = 879830)
+[259788.491980] CPU2: Package temperature above threshold, cpu clock throttled (total events = 879809)
+[259788.491981] CPU3: Package temperature above threshold, cpu clock throttled (total events = 880036)
+[259788.493003] CPU1: Package temperature/speed normal
+[259788.493004] CPU0: Package temperature/speed normal
+[259788.493006] CPU3: Package temperature/speed normal
+[259788.493007] CPU2: Package temperature/speed normal
+[259805.364968] CPU0: Core temperature above threshold, cpu clock throttled (total events = 581034)
+[259805.364970] CPU1: Core temperature above threshold, cpu clock throttled (total events = 580976)
+[259805.365980] CPU0: Core temperature/speed normal
+[259805.365994] CPU1: Core temperature/speed normal
+[260088.693911] CPU0: Package temperature above threshold, cpu clock throttled (total events = 882221)
+[260088.693912] CPU1: Package temperature above threshold, cpu clock throttled (total events = 882124)
+[260088.693915] CPU3: Package temperature above threshold, cpu clock throttled (total events = 882330)
+[260088.693917] CPU2: Package temperature above threshold, cpu clock throttled (total events = 882103)
+[260088.694932] CPU0: Package temperature/speed normal
+[260088.694932] CPU1: Package temperature/speed normal
+[260088.694937] CPU2: Package temperature/speed normal
+[260088.694938] CPU3: Package temperature/speed normal
+[260113.864079] CPU0: Core temperature above threshold, cpu clock throttled (total events = 583303)
+[260113.864081] CPU1: Core temperature above threshold, cpu clock throttled (total events = 583245)
+[260113.867107] CPU1: Core temperature/speed normal
+[260113.867108] CPU0: Core temperature/speed normal
+[260398.385763] CPU1: Package temperature above threshold, cpu clock throttled (total events = 884195)
+[260398.385764] CPU0: Package temperature above threshold, cpu clock throttled (total events = 884292)
+[260398.385767] CPU3: Package temperature above threshold, cpu clock throttled (total events = 884401)
+[260398.385769] CPU2: Package temperature above threshold, cpu clock throttled (total events = 884174)
+[260398.386786] CPU1: Package temperature/speed normal
+[260398.386787] CPU0: Package temperature/speed normal
+[260398.386793] CPU2: Package temperature/speed normal
+[260398.386793] CPU3: Package temperature/speed normal
+[260414.655373] CPU0: Core temperature above threshold, cpu clock throttled (total events = 585200)
+[260414.655375] CPU1: Core temperature above threshold, cpu clock throttled (total events = 585142)
+[260414.656390] CPU0: Core temperature/speed normal
+[260414.656391] CPU1: Core temperature/speed normal
+[260705.913627] CPU2: Package temperature above threshold, cpu clock throttled (total events = 886982)
+[260705.913629] CPU0: Package temperature above threshold, cpu clock throttled (total events = 887100)
+[260705.913631] CPU3: Package temperature above threshold, cpu clock throttled (total events = 887209)
+[260705.913632] CPU1: Package temperature above threshold, cpu clock throttled (total events = 887003)
+[260705.914655] CPU2: Package temperature/speed normal
+[260705.914656] CPU0: Package temperature/speed normal
+[260705.914657] CPU1: Package temperature/speed normal
+[260705.914658] CPU3: Package temperature/speed normal
+[260720.627640] CPU1: Core temperature above threshold, cpu clock throttled (total events = 587772)
+[260720.627642] CPU0: Core temperature above threshold, cpu clock throttled (total events = 587830)
+[260720.628668] CPU1: Core temperature/speed normal
+[260720.628669] CPU0: Core temperature/speed normal
+[261008.963133] CPU0: Package temperature above threshold, cpu clock throttled (total events = 889663)
+[261008.963135] CPU1: Package temperature above threshold, cpu clock throttled (total events = 889566)
+[261008.963138] CPU3: Package temperature above threshold, cpu clock throttled (total events = 889772)
+[261008.963139] CPU2: Package temperature above threshold, cpu clock throttled (total events = 889545)
+[261008.964156] CPU1: Package temperature/speed normal
+[261008.964157] CPU0: Package temperature/speed normal
+[261008.964159] CPU2: Package temperature/speed normal
+[261008.964160] CPU3: Package temperature/speed normal
+[261026.038604] CPU0: Core temperature above threshold, cpu clock throttled (total events = 590413)
+[261026.038606] CPU1: Core temperature above threshold, cpu clock throttled (total events = 590355)
+[261311.980570] CPU0: Package temperature above threshold, cpu clock throttled (total events = 893530)
+[261311.980571] CPU1: Package temperature above threshold, cpu clock throttled (total events = 893433)
+[261311.980573] CPU2: Package temperature above threshold, cpu clock throttled (total events = 893412)
+[261311.980574] CPU3: Package temperature above threshold, cpu clock throttled (total events = 893639)
+[261311.982611] CPU3: Package temperature/speed normal
+[261311.982612] CPU2: Package temperature/speed normal
+[261311.982614] CPU1: Package temperature/speed normal
+[261311.982615] CPU0: Package temperature/speed normal
+[261332.166243] CPU0: Core temperature above threshold, cpu clock throttled (total events = 593746)
+[261332.166244] CPU1: Core temperature above threshold, cpu clock throttled (total events = 593688)
+[261332.168240] CPU0: Core temperature/speed normal
+[261332.168253] CPU1: Core temperature/speed normal
+[261617.454705] CPU2: Package temperature above threshold, cpu clock throttled (total events = 898713)
+[261617.454706] CPU3: Package temperature above threshold, cpu clock throttled (total events = 898940)
+[261617.454709] CPU0: Package temperature above threshold, cpu clock throttled (total events = 898831)
+[261617.454711] CPU1: Package temperature above threshold, cpu clock throttled (total events = 898734)
+[261617.455711] CPU3: Package temperature/speed normal
+[261617.455712] CPU2: Package temperature/speed normal
+[261617.455717] CPU0: Package temperature/speed normal
+[261617.455718] CPU1: Package temperature/speed normal
+[261632.659850] CPU0: Core temperature above threshold, cpu clock throttled (total events = 598737)
+[261632.659852] CPU1: Core temperature above threshold, cpu clock throttled (total events = 598679)
+[261632.661870] CPU0: Core temperature/speed normal
+[261632.661871] CPU1: Core temperature/speed normal
+[261917.963340] CPU1: Package temperature above threshold, cpu clock throttled (total events = 901966)
+[261917.963341] CPU0: Package temperature above threshold, cpu clock throttled (total events = 902063)
+[261917.963345] CPU2: Package temperature above threshold, cpu clock throttled (total events = 901945)
+[261917.963346] CPU3: Package temperature above threshold, cpu clock throttled (total events = 902172)
+[261917.964342] CPU3: Package temperature/speed normal
+[261917.964343] CPU2: Package temperature/speed normal
+[261917.964344] CPU1: Package temperature/speed normal
+[261917.964345] CPU0: Package temperature/speed normal
+[261955.119221] CPU1: Core temperature above threshold, cpu clock throttled (total events = 601749)
+[261955.119222] CPU0: Core temperature above threshold, cpu clock throttled (total events = 601807)
+[261955.120231] CPU1: Core temperature/speed normal
+[261955.120246] CPU0: Core temperature/speed normal
+[262276.730632] CPU0: Core temperature above threshold, cpu clock throttled (total events = 603637)
+[262276.730633] CPU1: Core temperature above threshold, cpu clock throttled (total events = 603579)
+[262276.730637] CPU1: Package temperature above threshold, cpu clock throttled (total events = 903862)
+[262276.730640] CPU2: Package temperature above threshold, cpu clock throttled (total events = 903841)
+[262276.730641] CPU0: Package temperature above threshold, cpu clock throttled (total events = 903959)
+[262276.730643] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904068)
+[262276.732641] CPU0: Core temperature/speed normal
+[262276.732654] CPU1: Core temperature/speed normal
+[262276.732656] CPU2: Package temperature/speed normal
+[262276.732656] CPU3: Package temperature/speed normal
+[262276.732657] CPU1: Package temperature/speed normal
+[262276.732658] CPU0: Package temperature/speed normal
+[262580.796502] CPU0: Core temperature above threshold, cpu clock throttled (total events = 603984)
+[262580.796503] CPU1: Core temperature above threshold, cpu clock throttled (total events = 603926)
+[262580.796507] CPU1: Package temperature above threshold, cpu clock throttled (total events = 904218)
+[262580.796510] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904424)
+[262580.796512] CPU2: Package temperature above threshold, cpu clock throttled (total events = 904197)
+[262580.796513] CPU0: Package temperature above threshold, cpu clock throttled (total events = 904315)
+[262580.803521] CPU0: Core temperature/speed normal
+[262580.803526] CPU1: Core temperature/speed normal
+[262580.803531] CPU3: Package temperature/speed normal
+[262580.803551] CPU2: Package temperature/speed normal
+[262580.803551] CPU1: Package temperature/speed normal
+[262580.803553] CPU0: Package temperature/speed normal
+[263005.950688] e1000e: eth0 NIC Link is Down
+[263005.966883] PM: suspend entry (deep)
+[263005.966885] PM: Syncing filesystems ... done.
+[263006.005169] (NULL device *): firmware: direct-loading firmware iwlwifi-7260-17.ucode
+[263006.005404] Freezing user space processes ... (elapsed 0.001 seconds) done.
+[263006.007286] OOM killer disabled.
+[263006.007287] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+[263006.008621] Suspending console(s) (use no_console_suspend to debug)
+[263006.008898] wlp2s0: deauthenticating from 10:fe:ed:bb:49:bf by local choice (Reason: 3=DEAUTH_LEAVING)
+[263006.149562] sd 4:0:0:0: [sda] Synchronizing SCSI cache
+[263006.153016] sd 4:0:0:0: [sda] Stopping disk
+[263006.187478] e1000e: EEE TX LPI TIMER: 00000011
+[263006.558736] ACPI: EC: interrupt blocked
+[263006.578343] ACPI: Preparing to enter system sleep state S3
+[263006.579510] ACPI: EC: event blocked
+[263006.579512] ACPI: EC: EC stopped
+[263006.579513] PM: Saving platform NVS memory
+[263006.579548] Disabling non-boot CPUs ...
+[263006.596020] smpboot: CPU 1 is now offline
+[263006.618214] IRQ 31: no longer affine to CPU2
+[263006.619235] smpboot: CPU 2 is now offline
+[263006.645983] IRQ 18: no longer affine to CPU3
+[263006.645990] IRQ 27: no longer affine to CPU3
+[263006.645995] IRQ 32: no longer affine to CPU3
+[263006.647006] smpboot: CPU 3 is now offline
+[263006.652333] ACPI: Low-level resume complete
+[263006.652384] ACPI: EC: EC started
+[263006.652385] PM: Restoring platform NVS memory
+[263006.655115] Enabling non-boot CPUs ...
+[263006.655150] x86: Booting SMP configuration:
+[263006.655151] smpboot: Booting Node 0 Processor 1 APIC 0x1
+[263006.655591]  cache: parent cpu1 should not be sleeping
+[263006.655799] CPU1 is up
+[263006.655823] smpboot: Booting Node 0 Processor 2 APIC 0x2
+[263006.657622]  cache: parent cpu2 should not be sleeping
+[263006.657841] CPU2 is up
+[263006.657861] smpboot: Booting Node 0 Processor 3 APIC 0x3
+[263006.658250]  cache: parent cpu3 should not be sleeping
+[263006.658767] CPU3 is up
+[263006.667585] ACPI: Waking up from system sleep state S3
+[263006.673007] ACPI: EC: interrupt unblocked
+[263006.692409] ACPI: EC: event unblocked
+[263006.700670] tpm tpm0: A TPM error (7) occurred attempting to read a pcr value
+[263006.700674] tpm tpm0: TPM is disabled/deactivated (0x7)
+[263006.703393] sd 4:0:0:0: [sda] Starting disk
+[263006.947343] usb 2-5: reset full-speed USB device number 2 using xhci_hcd
+[263007.223465] usb 2-12: reset high-speed USB device number 5 using xhci_hcd
+[263007.318541] ata1: SATA link down (SStatus 0 SControl 300)
+[263007.330692] ata3: SATA link down (SStatus 0 SControl 300)
+[263007.330734] ata5: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+[263007.336017] ata5.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+[263007.336025] ata5.00: supports DRM functions and may not be fully accessible
+[263007.425391] ata5.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+[263007.425399] ata5.00: supports DRM functions and may not be fully accessible
+[263007.486115] ata5.00: configured for UDMA/133
+[263007.499515] usb 2-8: reset full-speed USB device number 3 using xhci_hcd
+[263007.502319] ata5.00: Enabling discard_zeroes_data
+[263007.775523] usb 2-11: reset high-speed USB device number 6 using xhci_hcd
+[263008.007512] usb 2-5.2: reset full-speed USB device number 4 using xhci_hcd
+[263008.110354] OOM killer enabled.
+[263008.110355] Restarting tasks ... 
+[263008.141625] Bluetooth: hci0: read Intel version: 3707100180012d0d00
+[263008.141820] bluetooth hci0: firmware: direct-loading firmware intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+[263008.141823] Bluetooth: hci0: Intel Bluetooth firmware file: intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+[263008.179688] done.
+[263008.283390] PM: suspend exit
+[263008.341625] Bluetooth: hci0: Intel firmware patch completed and activated
+[263008.382803] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[263008.432893] mmc0: cannot verify signal voltage switch
+[263008.599285] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[263008.673758] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[263008.892166] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[263009.140551] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[263009.459577] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[263010.419359] psmouse serio2: synaptics: queried max coordinates: x [..5680], y [..4730]
+[263010.511383] psmouse serio2: synaptics: queried min coordinates: x [1354..], y [1280..]
+[263012.845988] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[263016.297759] wlp2s0: authenticate with 10:fe:ed:bb:49:bf
+[263016.300999] wlp2s0: send auth to 10:fe:ed:bb:49:bf (try 1/3)
+[263016.303355] wlp2s0: authenticated
+[263016.307021] wlp2s0: associate with 10:fe:ed:bb:49:bf (try 1/3)
+[263016.311188] wlp2s0: RX AssocResp from 10:fe:ed:bb:49:bf (capab=0x31 status=0 aid=3)
+[263016.320232] wlp2s0: associated
+[263017.353181] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+[263282.860293] CPU0: Core temperature above threshold, cpu clock throttled (total events = 604209)
+[263282.860294] CPU1: Core temperature above threshold, cpu clock throttled (total events = 604151)
+[263282.860299] CPU1: Package temperature above threshold, cpu clock throttled (total events = 904443)
+[263282.860301] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904649)
+[263282.860303] CPU2: Package temperature above threshold, cpu clock throttled (total events = 904422)
+[263282.860304] CPU0: Package temperature above threshold, cpu clock throttled (total events = 904540)
+[263282.861315] CPU0: Core temperature/speed normal
+[263282.861329] CPU1: Core temperature/speed normal
+[263282.861330] CPU2: Package temperature/speed normal
+[263282.861331] CPU3: Package temperature/speed normal
+[263282.861332] CPU1: Package temperature/speed normal
+[263282.861333] CPU0: Package temperature/speed normal
+[263879.841226] CPU1: Core temperature above threshold, cpu clock throttled (total events = 604175)
+[263879.841227] CPU0: Core temperature above threshold, cpu clock throttled (total events = 604233)
+[263879.841229] CPU2: Package temperature above threshold, cpu clock throttled (total events = 904446)
+[263879.841231] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904673)
+[263879.841233] CPU0: Package temperature above threshold, cpu clock throttled (total events = 904564)
+[263879.841239] CPU1: Package temperature above threshold, cpu clock throttled (total events = 904467)
+[263879.843280] CPU1: Core temperature/speed normal
+[263879.843281] CPU0: Core temperature/speed normal
+[263879.843283] CPU2: Package temperature/speed normal
+[263879.843284] CPU3: Package temperature/speed normal
+[263879.843284] CPU0: Package temperature/speed normal
+[263879.843286] CPU1: Package temperature/speed normal
+[264709.318610] CPU1: Core temperature above threshold, cpu clock throttled (total events = 604180)
+[264709.318611] CPU0: Core temperature above threshold, cpu clock throttled (total events = 604238)
+[264709.318613] CPU2: Package temperature above threshold, cpu clock throttled (total events = 904451)
+[264709.318615] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904678)
+[264709.318617] CPU0: Package temperature above threshold, cpu clock throttled (total events = 904569)
+[264709.318622] CPU1: Package temperature above threshold, cpu clock throttled (total events = 904472)
+[264709.319628] CPU0: Core temperature/speed normal
+[264709.319641] CPU1: Core temperature/speed normal
+[264709.319643] CPU1: Package temperature/speed normal
+[264709.319644] CPU0: Package temperature/speed normal
+[264709.319649] CPU3: Package temperature/speed normal
+[264709.319650] CPU2: Package temperature/speed normal
+[265662.857280] e1000e: eth0 NIC Link is Down
+[265662.876879] PM: suspend entry (deep)
+[265662.876880] PM: Syncing filesystems ... done.
+[265662.925226] (NULL device *): firmware: direct-loading firmware intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+[265662.925462] (NULL device *): firmware: direct-loading firmware iwlwifi-7260-17.ucode
+[265662.925491] Freezing user space processes ... (elapsed 0.001 seconds) done.
+[265662.927382] OOM killer disabled.
+[265662.927382] Freezing remaining freezable tasks ... (elapsed 0.001 seconds) done.
+[265662.928728] Suspending console(s) (use no_console_suspend to debug)
+[265662.929036] wlp2s0: deauthenticating from 10:fe:ed:bb:49:bf by local choice (Reason: 3=DEAUTH_LEAVING)
+[265663.069163] sd 4:0:0:0: [sda] Synchronizing SCSI cache
+[265663.072597] sd 4:0:0:0: [sda] Stopping disk
+[265663.106530] e1000e: EEE TX LPI TIMER: 00000011
+[265663.482158] ACPI: EC: interrupt blocked
+[265663.501774] ACPI: Preparing to enter system sleep state S3
+[265663.502721] ACPI: EC: event blocked
+[265663.502722] ACPI: EC: EC stopped
+[265663.502723] PM: Saving platform NVS memory
+[265663.502750] Disabling non-boot CPUs ...
+[265663.518828] smpboot: CPU 1 is now offline
+[265663.549697] IRQ 31: no longer affine to CPU2
+[265663.550718] smpboot: CPU 2 is now offline
+[265663.570169] IRQ 18: no longer affine to CPU3
+[265663.570176] IRQ 27: no longer affine to CPU3
+[265663.570182] IRQ 32: no longer affine to CPU3
+[265663.571195] smpboot: CPU 3 is now offline
+[265663.575843] ACPI: Low-level resume complete
+[265663.575893] ACPI: EC: EC started
+[265663.575893] PM: Restoring platform NVS memory
+[265663.578582] Enabling non-boot CPUs ...
+[265663.578618] x86: Booting SMP configuration:
+[265663.578619] smpboot: Booting Node 0 Processor 1 APIC 0x1
+[265663.579031]  cache: parent cpu1 should not be sleeping
+[265663.579245] CPU1 is up
+[265663.579270] smpboot: Booting Node 0 Processor 2 APIC 0x2
+[265663.581065]  cache: parent cpu2 should not be sleeping
+[265663.581288] CPU2 is up
+[265663.581308] smpboot: Booting Node 0 Processor 3 APIC 0x3
+[265663.581699]  cache: parent cpu3 should not be sleeping
+[265663.582222] CPU3 is up
+[265663.591045] ACPI: Waking up from system sleep state S3
+[265663.596440] ACPI: EC: interrupt unblocked
+[265663.616067] ACPI: EC: event unblocked
+[265663.618464] sd 4:0:0:0: [sda] Starting disk
+[265663.623228] tpm tpm0: A TPM error (7) occurred attempting to read a pcr value
+[265663.623231] tpm tpm0: TPM is disabled/deactivated (0x7)
+[265663.866836] usb 2-5: reset full-speed USB device number 2 using xhci_hcd
+[265664.142843] usb 2-8: reset full-speed USB device number 3 using xhci_hcd
+[265664.272835] ata5: SATA link up 6.0 Gbps (SStatus 133 SControl 300)
+[265664.272852] ata3: SATA link down (SStatus 0 SControl 300)
+[265664.272870] ata1: SATA link down (SStatus 0 SControl 300)
+[265664.276894] ata5.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+[265664.276896] ata5.00: supports DRM functions and may not be fully accessible
+[265664.354010] ata5.00: ACPI cmd f5/00:00:00:00:00:a0 (SECURITY FREEZE LOCK) filtered out
+[265664.354012] ata5.00: supports DRM functions and may not be fully accessible
+[265664.414471] ata5.00: configured for UDMA/133
+[265664.422794] usb 2-12: reset high-speed USB device number 5 using xhci_hcd
+[265664.433335] ata5.00: Enabling discard_zeroes_data
+[265664.702803] usb 2-11: reset high-speed USB device number 6 using xhci_hcd
+[265664.748469] [drm:intel_dp_start_link_train [i915]] *ERROR* failed to enable link training
+[265664.930986] usb 2-5.2: reset full-speed USB device number 4 using xhci_hcd
+[265666.564656] OOM killer enabled.
+[265666.564659] Restarting tasks ... 
+[265666.564669] ACPI: \_SB_.REPL: undocking
+[265666.564792] usb 4-4: USB disconnect, device number 10
+[265666.575694] done.
+[265666.590886] Bluetooth: hci0: read Intel version: 3707100180012d0d00
+[265666.590891] Bluetooth: hci0: Intel Bluetooth firmware file: intel/ibt-hw-37.7.10-fw-1.80.1.2d.d.bseq
+[265666.610595] usb 2-10: USB disconnect, device number 48
+[265666.610600] usb 2-10.2: USB disconnect, device number 49
+[265666.685058] PM: suspend exit
+[265666.762642] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[265666.775553] Bluetooth: hci0: Intel firmware patch completed and activated
+[265666.864000] mmc0: cannot verify signal voltage switch
+[265666.979028] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[265667.050565] psmouse serio2: synaptics: queried max coordinates: x [..5680], y [..4730]
+[265667.056477] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[265667.145209] psmouse serio2: synaptics: queried min coordinates: x [1354..], y [1280..]
+[265667.281319] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[265667.524763] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[265667.619194] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[265670.928098] IPv6: ADDRCONF(NETDEV_UP): wlp2s0: link is not ready
+[265674.290515] wlp2s0: authenticate with 54:e6:fc:db:95:b4
+[265674.292476] wlp2s0: send auth to 54:e6:fc:db:95:b4 (try 1/3)
+[265674.297301] wlp2s0: authenticated
+[265674.298265] wlp2s0: associate with 54:e6:fc:db:95:b4 (try 1/3)
+[265674.304898] wlp2s0: RX AssocResp from 54:e6:fc:db:95:b4 (capab=0x431 status=0 aid=2)
+[265674.305823] wlp2s0: associated
+[265674.318483] IPv6: ADDRCONF(NETDEV_CHANGE): wlp2s0: link becomes ready
+[265684.001202] CPU1: Core temperature above threshold, cpu clock throttled (total events = 604181)
+[265684.001203] CPU0: Core temperature above threshold, cpu clock throttled (total events = 604239)
+[265684.001206] CPU2: Package temperature above threshold, cpu clock throttled (total events = 904452)
+[265684.001207] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904679)
+[265684.001210] CPU0: Package temperature above threshold, cpu clock throttled (total events = 904570)
+[265684.001215] CPU1: Package temperature above threshold, cpu clock throttled (total events = 904473)
+[265684.002215] CPU1: Core temperature/speed normal
+[265684.002228] CPU0: Core temperature/speed normal
+[265684.002230] CPU3: Package temperature/speed normal
+[265684.002231] CPU2: Package temperature/speed normal
+[265684.002232] CPU0: Package temperature/speed normal
+[265684.002234] CPU1: Package temperature/speed normal
+[266621.936364] pci_bus 0000:01: Allocating resources
+[266621.936385] pci_bus 0000:02: Allocating resources
+[266621.936408] pci_bus 0000:03: Allocating resources
+[266631.739300] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[266631.739336] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[266631.739341] wlp2s0: HW problem - can not stop rx aggregation for 54:e6:fc:db:95:b4 tid 0
+[266638.879094] iwlwifi 0000:02:00.0: iwlwifi transaction failed, dumping registers
+[266638.879098] iwlwifi 0000:02:00.0: iwlwifi device config registers:
+[266638.879144] iwlwifi 0000:02:00.0: 00000000: 08b18086 00100000 028000bb 00000000 00000004 00000000 00000000 00000000
+[266638.879146] iwlwifi 0000:02:00.0: 00000020: 00000000 00000000 00000000 44708086 00000000 000000c8 00000000 00000100
+[266638.879147] iwlwifi 0000:02:00.0: iwlwifi device memory mapped registers:
+[266638.879183] iwlwifi 0000:02:00.0: 00000000: ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff
+[266638.879185] iwlwifi 0000:02:00.0: 00000020: ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff
+[266638.879190] iwlwifi 0000:02:00.0: iwlwifi device AER capability structure:
+[266638.879219] iwlwifi 0000:02:00.0: 00000000: 14010001 00100000 00000000 00462031 000020c1 00002000 00000014 40000001
+[266638.879220] iwlwifi 0000:02:00.0: 00000020: 0000000f f0500460 00000000
+[266638.879222] iwlwifi 0000:02:00.0: iwlwifi parent port (0000:00:1c.5) config registers:
+[266638.879236] iwlwifi 0000:00:1c.5: 00000000: 8c1a8086 00100007 060400d4 00810010 00000000 00000000 00020200 200000f0
+[266638.879238] iwlwifi 0000:00:1c.5: 00000020: f050f050 0001fff1 00000000 00000000 00000000 00000040 00000000 00000207
+[266638.934435] iwlwifi 0000:02:00.0: Queue 10 is active on fifo 2 and stuck for 10000 ms. SW [76, 84] HW [90, 90] FH TRB=0x05a5a5a5a
+[266642.006905] iwlwifi 0000:02:00.0: Queue 5 is active on fifo 2 and stuck for 10000 ms. SW [78, 79] HW [90, 90] FH TRB=0x05a5a5a5a
+[269034.678396] CPU1: Core temperature above threshold, cpu clock throttled (total events = 604327)
+[269034.678397] CPU0: Core temperature above threshold, cpu clock throttled (total events = 604385)
+[269034.678399] CPU3: Package temperature above threshold, cpu clock throttled (total events = 904825)
+[269034.678402] CPU2: Package temperature above threshold, cpu clock throttled (total events = 904598)
+[269034.678403] CPU0: Package temperature above threshold, cpu clock throttled (total events = 904716)
+[269034.678409] CPU1: Package temperature above threshold, cpu clock throttled (total events = 904619)
+[269034.679432] CPU1: Core temperature/speed normal
+[269034.679433] CPU0: Core temperature/speed normal
+[269034.679435] CPU3: Package temperature/speed normal
+[269034.679436] CPU2: Package temperature/speed normal
+[269034.679436] CPU0: Package temperature/speed normal
+[269034.679437] CPU1: Package temperature/speed normal
+[269230.939779] pci_bus 0000:01: Allocating resources
+[269230.939792] pci_bus 0000:02: Allocating resources
+[269230.939809] pci_bus 0000:03: Allocating resources
+[269342.818179] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269342.818330] iwlwifi 0000:02:00.0: Error sending MCAST_FILTER_CMD: enqueue_hcmd failed: -5
+[269342.818336] iwlwifi 0000:02:00.0: mcast filter cmd error. ret=-5
+[269352.930511] iwlwifi 0000:02:00.0: Queue 11 is active on fifo 2 and stuck for 10000 ms. SW [11, 13] HW [90, 90] FH TRB=0x05a5a5a5a
+[269353.561780] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269353.561842] iwlwifi 0000:02:00.0: Error sending SCAN_OFFLOAD_REQUEST_CMD: enqueue_hcmd failed: -5
+[269353.561847] iwlwifi 0000:02:00.0: Scan failed! ret -5
+[269355.937513] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269355.937565] iwlwifi 0000:02:00.0: Error sending MCAST_FILTER_CMD: enqueue_hcmd failed: -5
+[269355.937568] iwlwifi 0000:02:00.0: mcast filter cmd error. ret=-5
+[269355.956804] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269355.956837] iwlwifi 0000:02:00.0: Error sending MCAST_FILTER_CMD: enqueue_hcmd failed: -5
+[269355.956840] iwlwifi 0000:02:00.0: mcast filter cmd error. ret=-5
+[269356.014803] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269356.014846] iwlwifi 0000:02:00.0: Error sending MAC_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269356.014850] iwlwifi 0000:02:00.0: Failed to send MAC context (action:2): -5
+[269356.014853] iwlwifi 0000:02:00.0: failed to update MAC ac:fd:ce:da:8f:54
+[269356.015154] wlp2s0: deauthenticating from 54:e6:fc:db:95:b4 by local choice (Reason: 3=DEAUTH_LEAVING)
+[269356.033439] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269356.033469] iwlwifi 0000:02:00.0: Error sending MAC_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269356.033473] iwlwifi 0000:02:00.0: Failed to send MAC context (action:2): -5
+[269356.033476] iwlwifi 0000:02:00.0: failed to update MAC ac:fd:ce:da:8f:54
+[269356.051737] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269356.051764] iwlwifi 0000:02:00.0: Error sending MAC_PM_POWER_TABLE: enqueue_hcmd failed: -5
+[269356.051767] iwlwifi 0000:02:00.0: failed to update power mode
+[269356.070130] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269356.070150] iwlwifi 0000:02:00.0: Error sending TXPATH_FLUSH: enqueue_hcmd failed: -5
+[269356.070153] iwlwifi 0000:02:00.0: Failed to send flush command (-5)
+[269356.070155] iwlwifi 0000:02:00.0: flush request fail
+[269358.072885] iwlwifi 0000:02:00.0: fail to flush all tx fifo queues Q 5
+[269358.147011] iwlwifi 0000:02:00.0: Queue 5 is active on fifo 2 and stuck for 10000 ms. SW [78, 80] HW [90, 90] FH TRB=0x05a5a5a5a
+[269358.165400] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269358.165457] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269358.183789] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269358.183813] iwlwifi 0000:02:00.0: Error sending TXPATH_FLUSH: enqueue_hcmd failed: -5
+[269358.183821] iwlwifi 0000:02:00.0: Failed to send flush command (-5)
+[269358.183823] iwlwifi 0000:02:00.0: Couldn't flush the AGG queue
+[269360.186668] iwlwifi 0000:02:00.0: fail to flush all tx fifo queues Q 10
+[269360.260653] iwlwifi 0000:02:00.0: Queue 10 is active on fifo 2 and stuck for 10000 ms. SW [76, 45] HW [90, 90] FH TRB=0x05a5a5a5a
+[269360.278978] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.278999] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269360.297383] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.297412] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269360.315761] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.315785] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269360.334153] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.334176] iwlwifi 0000:02:00.0: Error sending TXPATH_FLUSH: enqueue_hcmd failed: -5
+[269360.334180] iwlwifi 0000:02:00.0: Failed to send flush command (-5)
+[269360.334185] iwlwifi 0000:02:00.0: Couldn't flush the AGG queue
+[269360.352632] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.352656] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269360.370964] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.370987] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269360.389465] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.389506] iwlwifi 0000:02:00.0: Error sending ADD_STA_KEY: enqueue_hcmd failed: -5
+[269360.389513] wlp2s0: failed to remove key (0, 54:e6:fc:db:95:b4) from hardware (-5)
+[269360.407781] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.407823] iwlwifi 0000:02:00.0: Error sending REPLY_BEACON_FILTERING_CMD: enqueue_hcmd failed: -5
+[269360.407862] WARNING: CPU: 3 PID: 635 at /build/linux-iActNR/linux-4.18.10/drivers/net/wireless/intel/iwlwifi/mvm/mac80211.c:2762 iwl_mvm_mac_sta_state+0x582/0x6e0 [iwlmvm]
+[269360.407863] Modules linked in: btrfs zstd_compress zstd_decompress xxhash xor raid6_pq ufs qnx4 hfsplus hfs minix ntfs vfat msdos fat jfs xfs cpuid xt_hl xt_REDIRECT ppp_async crc_ccitt nf_conntrack_pptp nf_conntrack_proto_gre xt_tcpudp ip6t_rpfilter ip6t_REJECT nf_reject_ipv6 ipt_REJECT nf_reject_ipv4 xt_conntrack nft_counter ebtable_nat ip6_tables ip_tables nft_compat ebtable_filter ebtables overlay hid_generic usbhid hid ctr ccm l2tp_ppp l2tp_netlink l2tp_core ip6_udp_tunnel udp_tunnel pppox ppp_generic slhc qcserial usb_wwan cdc_mbim usbserial cdc_wdm cdc_ncm usbnet mii fuse nft_chain_nat_ipv6 nf_conntrack_ipv6 nf_defrag_ipv6 nf_nat_ipv6 nft_chain_route_ipv6 nft_chain_nat_ipv4 nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 nf_nat nft_chain_route_ipv4 nf_conntrack libcrc32c devlink ip_set nf_tables
+[269360.407903]  nfnetlink binfmt_misc arc4 snd_hda_codec_hdmi intel_rapl x86_pkg_temp_thermal intel_powerclamp coretemp kvm_intel iwlmvm kvm irqbypass mac80211 intel_cstate btusb intel_uncore btrtl btbcm intel_rapl_perf btintel snd_hda_codec_realtek bluetooth evdev uvcvideo joydev snd_hda_codec_generic i915 videobuf2_vmalloc serio_raw pcspkr videobuf2_memops drbg videobuf2_v4l2 snd_hda_intel videobuf2_common sg snd_hda_codec videodev ansi_cprng tpm_infineon iwlwifi snd_hda_core media snd_hwdep iTCO_wdt drm_kms_helper iTCO_vendor_support snd_pcm snd_timer cfg80211 rtsx_pci_ms ecdh_generic snd memstick mei_me soundcore drm rfkill mei i2c_algo_bit ie31200_edac tpm_tis tpm_tis_core tpm battery button rng_core fujitsu_laptop sparse_keymap video ac pcc_cpufreq parport_pc ppdev sunrpc lp parport x_tables autofs4
+[269360.407939]  ext4 crc16 mbcache jbd2 crc32c_generic fscrypto ecb algif_skcipher af_alg dm_crypt dm_mod mmc_block sd_mod crct10dif_pclmul crc32_pclmul crc32c_intel ghash_clmulni_intel pcbc rtsx_pci_sdmmc mmc_core xhci_pci xhci_hcd aesni_intel ahci rtsx_pci libahci aes_x86_64 crypto_simd cryptd glue_helper ehci_pci libata ehci_hcd i2c_i801 scsi_mod psmouse lpc_ich usbcore e1000e usb_common [last unloaded: ip_tables]
+[269360.407960] CPU: 3 PID: 635 Comm: wpa_supplicant Tainted: G        W         4.18.0-2-amd64 #1 Debian 4.18.10-2
+[269360.407961] Hardware name: FUJITSU LIFEBOOK E744/FJNB26F, BIOS Version 1.17 09/26/2014
+[269360.407967] RIP: 0010:iwl_mvm_mac_sta_state+0x582/0x6e0 [iwlmvm]
+[269360.407967] Code: ff 0f 0b 48 83 c4 48 b8 ea ff ff ff 5b 5d 41 5c 41 5d 41 5e 41 5f c3 48 8b 74 24 10 31 d2 4c 89 e7 e8 52 fb 01 00 85 c0 74 b9 <0f> 0b eb b5 4c 89 e7 e8 92 27 02 00 e9 69 fe ff ff 84 d2 74 07 80 
+[269360.407988] RSP: 0018:ffffae74c2453858 EFLAGS: 00010282
+[269360.407990] RAX: 00000000fffffffb RBX: ffff9dcd87e7e800 RCX: 0000000000000000
+[269360.407991] RDX: 0000000000000000 RSI: 0000000000000017 RDI: ffff9dcaeaff5508
+[269360.407991] RBP: ffff9dcaeaff5500 R08: 0000000000002a70 R09: 0000000000000004
+[269360.407992] R10: ffffae74c2453808 R11: ffffffffb4bcffae R12: ffff9dcaeaff5508
+[269360.407993] R13: 0000000000000003 R14: ffff9dcd87e7e828 R15: ffff9dcaeaff4cb0
+[269360.407994] FS:  00007ff179e55800(0000) GS:ffff9dcd9e2c0000(0000) knlGS:0000000000000000
+[269360.407995] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[269360.407995] CR2: 00007f22b2bb4000 CR3: 0000000406acc001 CR4: 00000000001606e0
+[269360.407996] Call Trace:
+[269360.408014]  drv_sta_state+0x8d/0x3f0 [mac80211]
+[269360.408026]  sta_info_move_state+0x1a7/0x260 [mac80211]
+[269360.408037]  __sta_info_destroy_part2+0x54/0x120 [mac80211]
+[269360.408047]  __sta_info_flush+0x150/0x1b0 [mac80211]
+[269360.408060]  ieee80211_set_disassoc+0xb7/0x5c0 [mac80211]
+[269360.408072]  ieee80211_mgd_deauth+0x113/0x230 [mac80211]
+[269360.408086]  cfg80211_mlme_deauth+0xaf/0x1c0 [cfg80211]
+[269360.408098]  nl80211_deauthenticate+0x132/0x180 [cfg80211]
+[269360.408101]  genl_family_rcv_msg+0x1e4/0x390
+[269360.408104]  genl_rcv_msg+0x47/0x90
+[269360.408106]  ? _cond_resched+0x15/0x40
+[269360.408107]  ? genl_family_rcv_msg+0x390/0x390
+[269360.408109]  netlink_rcv_skb+0x4d/0x130
+[269360.408111]  genl_rcv+0x24/0x40
+[269360.408113]  netlink_unicast+0x1c2/0x250
+[269360.408114]  netlink_sendmsg+0x2c1/0x3b0
+[269360.408117]  sock_sendmsg+0x36/0x40
+[269360.408118]  ___sys_sendmsg+0x2a0/0x2f0
+[269360.408120]  ? sock_do_ioctl+0x4d/0x150
+[269360.408122]  ? dequeue_signal+0x4d/0x190
+[269360.408123]  ? recalc_sigpending+0x17/0x50
+[269360.408125]  ? sock_ioctl+0x1e2/0x330
+[269360.408126]  ? sock_ioctl+0x1e2/0x330
+[269360.408128]  ? __sys_sendmsg+0x5e/0xa0
+[269360.408129]  __sys_sendmsg+0x5e/0xa0
+[269360.408132]  do_syscall_64+0x55/0x110
+[269360.408134]  entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[269360.408136] RIP: 0033:0x7ff17a585354
+[269360.408137] Code: 00 f7 d8 64 89 02 48 c7 c0 ff ff ff ff eb b5 0f 1f 80 00 00 00 00 48 8d 05 91 36 0c 00 8b 00 85 c0 75 13 b8 2e 00 00 00 0f 05 <48> 3d 00 f0 ff ff 77 54 f3 c3 66 90 41 54 55 41 89 d4 53 48 89 f5 
+[269360.408158] RSP: 002b:00007ffc47ef5038 EFLAGS: 00000246 ORIG_RAX: 000000000000002e
+[269360.408159] RAX: ffffffffffffffda RBX: 000055f3c08e5740 RCX: 00007ff17a585354
+[269360.408160] RDX: 0000000000000000 RSI: 00007ffc47ef5070 RDI: 0000000000000006
+[269360.408160] RBP: 000055f3c09234b0 R08: 0000000000000000 R09: 000000000000000d
+[269360.408161] R10: 000055f3c08db010 R11: 0000000000000246 R12: 000055f3c08e5650
+[269360.408162] R13: 00007ffc47ef5070 R14: 0000000000000000 R15: 00007ffc47ef5490
+[269360.408163] ---[ end trace e833e03caebb6071 ]---
+[269360.426439] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.426461] iwlwifi 0000:02:00.0: Error sending ADD_STA: enqueue_hcmd failed: -5
+[269360.426517] WARNING: CPU: 3 PID: 635 at /build/linux-iActNR/linux-4.18.10/net/mac80211/sta_info.c:1004 __sta_info_destroy_part2+0x10d/0x120 [mac80211]
+[269360.426519] Modules linked in: btrfs zstd_compress zstd_decompress xxhash xor raid6_pq ufs qnx4 hfsplus hfs minix ntfs vfat msdos fat jfs xfs cpuid xt_hl xt_REDIRECT ppp_async crc_ccitt nf_conntrack_pptp nf_conntrack_proto_gre xt_tcpudp ip6t_rpfilter ip6t_REJECT nf_reject_ipv6 ipt_REJECT nf_reject_ipv4 xt_conntrack nft_counter ebtable_nat ip6_tables ip_tables nft_compat ebtable_filter ebtables overlay hid_generic usbhid hid ctr ccm l2tp_ppp l2tp_netlink l2tp_core ip6_udp_tunnel udp_tunnel pppox ppp_generic slhc qcserial usb_wwan cdc_mbim usbserial cdc_wdm cdc_ncm usbnet mii fuse nft_chain_nat_ipv6 nf_conntrack_ipv6 nf_defrag_ipv6 nf_nat_ipv6 nft_chain_route_ipv6 nft_chain_nat_ipv4 nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 nf_nat nft_chain_route_ipv4 nf_conntrack libcrc32c devlink ip_set nf_tables
+[269360.426571]  nfnetlink binfmt_misc arc4 snd_hda_codec_hdmi intel_rapl x86_pkg_temp_thermal intel_powerclamp coretemp kvm_intel iwlmvm kvm irqbypass mac80211 intel_cstate btusb intel_uncore btrtl btbcm intel_rapl_perf btintel snd_hda_codec_realtek bluetooth evdev uvcvideo joydev snd_hda_codec_generic i915 videobuf2_vmalloc serio_raw pcspkr videobuf2_memops drbg videobuf2_v4l2 snd_hda_intel videobuf2_common sg snd_hda_codec videodev ansi_cprng tpm_infineon iwlwifi snd_hda_core media snd_hwdep iTCO_wdt drm_kms_helper iTCO_vendor_support snd_pcm snd_timer cfg80211 rtsx_pci_ms ecdh_generic snd memstick mei_me soundcore drm rfkill mei i2c_algo_bit ie31200_edac tpm_tis tpm_tis_core tpm battery button rng_core fujitsu_laptop sparse_keymap video ac pcc_cpufreq parport_pc ppdev sunrpc lp parport x_tables autofs4
+[269360.426621]  ext4 crc16 mbcache jbd2 crc32c_generic fscrypto ecb algif_skcipher af_alg dm_crypt dm_mod mmc_block sd_mod crct10dif_pclmul crc32_pclmul crc32c_intel ghash_clmulni_intel pcbc rtsx_pci_sdmmc mmc_core xhci_pci xhci_hcd aesni_intel ahci rtsx_pci libahci aes_x86_64 crypto_simd cryptd glue_helper ehci_pci libata ehci_hcd i2c_i801 scsi_mod psmouse lpc_ich usbcore e1000e usb_common [last unloaded: ip_tables]
+[269360.426648] CPU: 3 PID: 635 Comm: wpa_supplicant Tainted: G        W         4.18.0-2-amd64 #1 Debian 4.18.10-2
+[269360.426649] Hardware name: FUJITSU LIFEBOOK E744/FJNB26F, BIOS Version 1.17 09/26/2014
+[269360.426669] RIP: 0010:__sta_info_destroy_part2+0x10d/0x120 [mac80211]
+[269360.426670] Code: ff 0f 0b 80 bb 0c 01 00 00 00 74 81 45 31 c0 b9 01 00 00 00 48 89 da 4c 89 e6 48 89 ef e8 ab ad ff ff 85 c0 0f 84 63 ff ff ff <0f> 0b e9 5c ff ff ff 66 66 2e 0f 1f 84 00 00 00 00 00 90 0f 1f 44 
+[269360.426699] RSP: 0018:ffffae74c2453930 EFLAGS: 00010282
+[269360.426701] RAX: 00000000fffffffb RBX: ffff9dcd87e7e000 RCX: 0000000000000000
+[269360.426702] RDX: ffff9dcd84898ec0 RSI: ffff9dcd9e2d6738 RDI: ffff9dcaeaff5538
+[269360.426703] RBP: ffff9dcaeaff4760 R08: 0000000000002aa8 R09: 0000000000000004
+[269360.426704] R10: ffffae74c24537c8 R11: ffffffffb4bcffae R12: ffff9dcd883f88c0
+[269360.426705] R13: 0000000000000000 R14: ffff9dcaeaff4cb0 R15: ffff9dcaeaff4cb0
+[269360.426706] FS:  00007ff179e55800(0000) GS:ffff9dcd9e2c0000(0000) knlGS:0000000000000000
+[269360.426707] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[269360.426708] CR2: 00007f22b2bb4000 CR3: 0000000406acc001 CR4: 00000000001606e0
+[269360.426709] Call Trace:
+[269360.426729]  __sta_info_flush+0x150/0x1b0 [mac80211]
+[269360.426749]  ieee80211_set_disassoc+0xb7/0x5c0 [mac80211]
+[269360.426766]  ieee80211_mgd_deauth+0x113/0x230 [mac80211]
+[269360.426788]  cfg80211_mlme_deauth+0xaf/0x1c0 [cfg80211]
+[269360.426799]  nl80211_deauthenticate+0x132/0x180 [cfg80211]
+[269360.426803]  genl_family_rcv_msg+0x1e4/0x390
+[269360.426805]  genl_rcv_msg+0x47/0x90
+[269360.426807]  ? _cond_resched+0x15/0x40
+[269360.426809]  ? genl_family_rcv_msg+0x390/0x390
+[269360.426811]  netlink_rcv_skb+0x4d/0x130
+[269360.426813]  genl_rcv+0x24/0x40
+[269360.426815]  netlink_unicast+0x1c2/0x250
+[269360.426816]  netlink_sendmsg+0x2c1/0x3b0
+[269360.426819]  sock_sendmsg+0x36/0x40
+[269360.426821]  ___sys_sendmsg+0x2a0/0x2f0
+[269360.426822]  ? sock_do_ioctl+0x4d/0x150
+[269360.426824]  ? dequeue_signal+0x4d/0x190
+[269360.426825]  ? recalc_sigpending+0x17/0x50
+[269360.426827]  ? sock_ioctl+0x1e2/0x330
+[269360.426828]  ? sock_ioctl+0x1e2/0x330
+[269360.426830]  ? __sys_sendmsg+0x5e/0xa0
+[269360.426832]  __sys_sendmsg+0x5e/0xa0
+[269360.426835]  do_syscall_64+0x55/0x110
+[269360.426837]  entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[269360.426838] RIP: 0033:0x7ff17a585354
+[269360.426839] Code: 00 f7 d8 64 89 02 48 c7 c0 ff ff ff ff eb b5 0f 1f 80 00 00 00 00 48 8d 05 91 36 0c 00 8b 00 85 c0 75 13 b8 2e 00 00 00 0f 05 <48> 3d 00 f0 ff ff 77 54 f3 c3 66 90 41 54 55 41 89 d4 53 48 89 f5 
+[269360.426860] RSP: 002b:00007ffc47ef5038 EFLAGS: 00000246 ORIG_RAX: 000000000000002e
+[269360.426861] RAX: ffffffffffffffda RBX: 000055f3c08e5740 RCX: 00007ff17a585354
+[269360.426862] RDX: 0000000000000000 RSI: 00007ffc47ef5070 RDI: 0000000000000006
+[269360.426862] RBP: 000055f3c09234b0 R08: 0000000000000000 R09: 000000000000000d
+[269360.426863] R10: 000055f3c08db010 R11: 0000000000000246 R12: 000055f3c08e5650
+[269360.426864] R13: 00007ffc47ef5070 R14: 0000000000000000 R15: 00007ffc47ef5490
+[269360.426865] ---[ end trace e833e03caebb6072 ]---
+[269360.445132] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.445149] iwlwifi 0000:02:00.0: Error sending MAC_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269360.445154] iwlwifi 0000:02:00.0: Failed to send MAC context (action:2): -5
+[269360.445160] iwlwifi 0000:02:00.0: failed to update MAC ac:fd:ce:da:8f:54
+[269360.463412] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.463427] iwlwifi 0000:02:00.0: Error sending REPLY_SF_CFG_CMD: enqueue_hcmd failed: -5
+[269360.463429] ------------[ cut here ]------------
+[269360.463429] Failed to update SF upon disassociation
+[269360.463463] WARNING: CPU: 3 PID: 635 at /build/linux-iActNR/linux-4.18.10/drivers/net/wireless/intel/iwlwifi/mvm/mac80211.c:1982 iwl_mvm_bss_info_changed+0x5eb/0x600 [iwlmvm]
+[269360.463464] Modules linked in: btrfs zstd_compress zstd_decompress xxhash xor raid6_pq ufs qnx4 hfsplus hfs minix ntfs vfat msdos fat jfs xfs cpuid xt_hl xt_REDIRECT ppp_async crc_ccitt nf_conntrack_pptp nf_conntrack_proto_gre xt_tcpudp ip6t_rpfilter ip6t_REJECT nf_reject_ipv6 ipt_REJECT nf_reject_ipv4 xt_conntrack nft_counter ebtable_nat ip6_tables ip_tables nft_compat ebtable_filter ebtables overlay hid_generic usbhid hid ctr ccm l2tp_ppp l2tp_netlink l2tp_core ip6_udp_tunnel udp_tunnel pppox ppp_generic slhc qcserial usb_wwan cdc_mbim usbserial cdc_wdm cdc_ncm usbnet mii fuse nft_chain_nat_ipv6 nf_conntrack_ipv6 nf_defrag_ipv6 nf_nat_ipv6 nft_chain_route_ipv6 nft_chain_nat_ipv4 nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 nf_nat nft_chain_route_ipv4 nf_conntrack libcrc32c devlink ip_set nf_tables
+[269360.463502]  nfnetlink binfmt_misc arc4 snd_hda_codec_hdmi intel_rapl x86_pkg_temp_thermal intel_powerclamp coretemp kvm_intel iwlmvm kvm irqbypass mac80211 intel_cstate btusb intel_uncore btrtl btbcm intel_rapl_perf btintel snd_hda_codec_realtek bluetooth evdev uvcvideo joydev snd_hda_codec_generic i915 videobuf2_vmalloc serio_raw pcspkr videobuf2_memops drbg videobuf2_v4l2 snd_hda_intel videobuf2_common sg snd_hda_codec videodev ansi_cprng tpm_infineon iwlwifi snd_hda_core media snd_hwdep iTCO_wdt drm_kms_helper iTCO_vendor_support snd_pcm snd_timer cfg80211 rtsx_pci_ms ecdh_generic snd memstick mei_me soundcore drm rfkill mei i2c_algo_bit ie31200_edac tpm_tis tpm_tis_core tpm battery button rng_core fujitsu_laptop sparse_keymap video ac pcc_cpufreq parport_pc ppdev sunrpc lp parport x_tables autofs4
+[269360.463536]  ext4 crc16 mbcache jbd2 crc32c_generic fscrypto ecb algif_skcipher af_alg dm_crypt dm_mod mmc_block sd_mod crct10dif_pclmul crc32_pclmul crc32c_intel ghash_clmulni_intel pcbc rtsx_pci_sdmmc mmc_core xhci_pci xhci_hcd aesni_intel ahci rtsx_pci libahci aes_x86_64 crypto_simd cryptd glue_helper ehci_pci libata ehci_hcd i2c_i801 scsi_mod psmouse lpc_ich usbcore e1000e usb_common [last unloaded: ip_tables]
+[269360.463556] CPU: 3 PID: 635 Comm: wpa_supplicant Tainted: G        W         4.18.0-2-amd64 #1 Debian 4.18.10-2
+[269360.463556] Hardware name: FUJITSU LIFEBOOK E744/FJNB26F, BIOS Version 1.17 09/26/2014
+[269360.463561] RIP: 0010:iwl_mvm_bss_info_changed+0x5eb/0x600 [iwlmvm]
+[269360.463562] Code: e8 fa 3d 5c ff e9 4e ff ff ff 80 3d 59 93 03 00 00 0f 85 06 fc ff ff 48 c7 c7 40 30 50 c1 c6 05 45 93 03 00 01 e8 f5 03 1a f2 <0f> 0b e9 ec fb ff ff 66 66 2e 0f 1f 84 00 00 00 00 00 0f 1f 00 0f 
+[269360.463583] RSP: 0018:ffffae74c2453940 EFLAGS: 00010286
+[269360.463584] RAX: 0000000000000000 RBX: ffff9dcaeaff5508 RCX: 0000000000000006
+[269360.463585] RDX: 0000000000000007 RSI: 0000000000000086 RDI: ffff9dcd9e2d6730
+[269360.463586] RBP: ffff9dcaeaff5500 R08: 0000000000002ae3 R09: 0000000000000004
+[269360.463586] R10: ffffae74c2453870 R11: 0000000000000001 R12: 000000000080209f
+[269360.463587] R13: ffff9dcd883f9370 R14: ffff9dcd883f9378 R15: ffff9dcaeaff5538
+[269360.463588] FS:  00007ff179e55800(0000) GS:ffff9dcd9e2c0000(0000) knlGS:0000000000000000
+[269360.463589] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[269360.463590] CR2: 00007f22b2bb4000 CR3: 0000000406acc001 CR4: 00000000001606e0
+[269360.463591] Call Trace:
+[269360.463607]  ieee80211_bss_info_change_notify+0xa4/0x180 [mac80211]
+[269360.463620]  ieee80211_set_disassoc+0x20f/0x5c0 [mac80211]
+[269360.463632]  ieee80211_mgd_deauth+0x113/0x230 [mac80211]
+[269360.463649]  cfg80211_mlme_deauth+0xaf/0x1c0 [cfg80211]
+[269360.463659]  nl80211_deauthenticate+0x132/0x180 [cfg80211]
+[269360.463663]  genl_family_rcv_msg+0x1e4/0x390
+[269360.463665]  genl_rcv_msg+0x47/0x90
+[269360.463667]  ? _cond_resched+0x15/0x40
+[269360.463669]  ? genl_family_rcv_msg+0x390/0x390
+[269360.463670]  netlink_rcv_skb+0x4d/0x130
+[269360.463672]  genl_rcv+0x24/0x40
+[269360.463674]  netlink_unicast+0x1c2/0x250
+[269360.463676]  netlink_sendmsg+0x2c1/0x3b0
+[269360.463678]  sock_sendmsg+0x36/0x40
+[269360.463680]  ___sys_sendmsg+0x2a0/0x2f0
+[269360.463682]  ? sock_do_ioctl+0x4d/0x150
+[269360.463683]  ? dequeue_signal+0x4d/0x190
+[269360.463685]  ? recalc_sigpending+0x17/0x50
+[269360.463686]  ? sock_ioctl+0x1e2/0x330
+[269360.463687]  ? sock_ioctl+0x1e2/0x330
+[269360.463689]  ? __sys_sendmsg+0x5e/0xa0
+[269360.463691]  __sys_sendmsg+0x5e/0xa0
+[269360.463693]  do_syscall_64+0x55/0x110
+[269360.463696]  entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[269360.463697] RIP: 0033:0x7ff17a585354
+[269360.463698] Code: 00 f7 d8 64 89 02 48 c7 c0 ff ff ff ff eb b5 0f 1f 80 00 00 00 00 48 8d 05 91 36 0c 00 8b 00 85 c0 75 13 b8 2e 00 00 00 0f 05 <48> 3d 00 f0 ff ff 77 54 f3 c3 66 90 41 54 55 41 89 d4 53 48 89 f5 
+[269360.463718] RSP: 002b:00007ffc47ef5038 EFLAGS: 00000246 ORIG_RAX: 000000000000002e
+[269360.463720] RAX: ffffffffffffffda RBX: 000055f3c08e5740 RCX: 00007ff17a585354
+[269360.463720] RDX: 0000000000000000 RSI: 00007ffc47ef5070 RDI: 0000000000000006
+[269360.463721] RBP: 000055f3c09234b0 R08: 0000000000000000 R09: 000000000000000d
+[269360.463722] R10: 000055f3c08db010 R11: 0000000000000246 R12: 000055f3c08e5650
+[269360.463722] R13: 00007ffc47ef5070 R14: 0000000000000000 R15: 00007ffc47ef5490
+[269360.463724] ---[ end trace e833e03caebb6073 ]---
+[269360.481972] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.481988] iwlwifi 0000:02:00.0: Error sending REMOVE_STA: enqueue_hcmd failed: -5
+[269360.481994] iwlwifi 0000:02:00.0: Failed to remove station. Id=0
+[269360.481998] iwlwifi 0000:02:00.0: failed to remove AP station
+[269360.500254] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.500270] iwlwifi 0000:02:00.0: Error sending TIME_QUOTA_CMD: enqueue_hcmd failed: -5
+[269360.500273] iwlwifi 0000:02:00.0: Failed to send quota: -5
+[269360.500275] iwlwifi 0000:02:00.0: failed to update quotas
+[269360.518592] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.518619] iwlwifi 0000:02:00.0: Error sending MAC_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269360.518622] iwlwifi 0000:02:00.0: Failed to send MAC context (action:2): -5
+[269360.518626] iwlwifi 0000:02:00.0: failed to update MAC ac:fd:ce:da:8f:54 (clear after unassoc)
+[269360.537075] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.537100] iwlwifi 0000:02:00.0: Error sending MAC_PM_POWER_TABLE: enqueue_hcmd failed: -5
+[269360.537103] iwlwifi 0000:02:00.0: failed to update power mode
+[269360.555405] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.555424] iwlwifi 0000:02:00.0: Error sending TIME_QUOTA_CMD: enqueue_hcmd failed: -5
+[269360.555427] iwlwifi 0000:02:00.0: Failed to send quota: -5
+[269360.573898] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.573926] iwlwifi 0000:02:00.0: Error sending BINDING_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269360.573929] iwlwifi 0000:02:00.0: Failed to send binding (action:3): -5
+[269360.592396] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.592411] iwlwifi 0000:02:00.0: Error sending MAC_PM_POWER_TABLE: enqueue_hcmd failed: -5
+[269360.610984] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.611014] iwlwifi 0000:02:00.0: Error sending MAC_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269360.611018] iwlwifi 0000:02:00.0: Failed to send MAC context (action:2): -5
+[269360.611021] iwlwifi 0000:02:00.0: failed to update MAC ac:fd:ce:da:8f:54
+[269360.629536] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269360.629561] iwlwifi 0000:02:00.0: Error sending PHY_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269360.629564] iwlwifi 0000:02:00.0: PHY ctxt cmd error. ret=-5
+[269362.632651] iwlwifi 0000:02:00.0: fail to flush all tx fifo queues Q 5
+[269362.705712] iwlwifi 0000:02:00.0: Queue 5 is active on fifo 2 and stuck for 10000 ms. SW [78, 80] HW [90, 90] FH TRB=0x05a5a5a5a
+[269362.728521] iwlwifi 0000:02:00.0: Failed to wake NIC for hcmd
+[269362.728564] iwlwifi 0000:02:00.0: Error sending MAC_CONTEXT_CMD: enqueue_hcmd failed: -5
+[269362.728567] iwlwifi 0000:02:00.0: Failed to remove MAC context: -5
+[269362.731348] ------------[ cut here ]------------
+[269362.731352] Adding active MAC d2:fc:ca:ae:d7:1a/2
+[269362.731390] WARNING: CPU: 1 PID: 19057 at /build/linux-iActNR/linux-4.18.10/drivers/net/wireless/intel/iwlwifi/mvm/mac-ctxt.c:1305 iwl_mvm_mac_ctxt_add+0xa5/0xc0 [iwlmvm]
+[269362.731391] Modules linked in: btrfs zstd_compress zstd_decompress xxhash xor raid6_pq ufs qnx4 hfsplus hfs minix ntfs vfat msdos fat jfs xfs cpuid xt_hl xt_REDIRECT ppp_async crc_ccitt nf_conntrack_pptp nf_conntrack_proto_gre xt_tcpudp ip6t_rpfilter ip6t_REJECT nf_reject_ipv6 ipt_REJECT nf_reject_ipv4 xt_conntrack nft_counter ebtable_nat ip6_tables ip_tables nft_compat ebtable_filter ebtables overlay hid_generic usbhid hid ctr ccm l2tp_ppp l2tp_netlink l2tp_core ip6_udp_tunnel udp_tunnel pppox ppp_generic slhc qcserial usb_wwan cdc_mbim usbserial cdc_wdm cdc_ncm usbnet mii fuse nft_chain_nat_ipv6 nf_conntrack_ipv6 nf_defrag_ipv6 nf_nat_ipv6 nft_chain_route_ipv6 nft_chain_nat_ipv4 nf_conntrack_ipv4 nf_defrag_ipv4 nf_nat_ipv4 nf_nat nft_chain_route_ipv4 nf_conntrack libcrc32c devlink ip_set nf_tables
+[269362.731434]  nfnetlink binfmt_misc arc4 snd_hda_codec_hdmi intel_rapl x86_pkg_temp_thermal intel_powerclamp coretemp kvm_intel iwlmvm kvm irqbypass mac80211 intel_cstate btusb intel_uncore btrtl btbcm intel_rapl_perf btintel snd_hda_codec_realtek bluetooth evdev uvcvideo joydev snd_hda_codec_generic i915 videobuf2_vmalloc serio_raw pcspkr videobuf2_memops drbg videobuf2_v4l2 snd_hda_intel videobuf2_common sg snd_hda_codec videodev ansi_cprng tpm_infineon iwlwifi snd_hda_core media snd_hwdep iTCO_wdt drm_kms_helper iTCO_vendor_support snd_pcm snd_timer cfg80211 rtsx_pci_ms ecdh_generic snd memstick mei_me soundcore drm rfkill mei i2c_algo_bit ie31200_edac tpm_tis tpm_tis_core tpm battery button rng_core fujitsu_laptop sparse_keymap video ac pcc_cpufreq parport_pc ppdev sunrpc lp parport x_tables autofs4
+[269362.731483]  ext4 crc16 mbcache jbd2 crc32c_generic fscrypto ecb algif_skcipher af_alg dm_crypt dm_mod mmc_block sd_mod crct10dif_pclmul crc32_pclmul crc32c_intel ghash_clmulni_intel pcbc rtsx_pci_sdmmc mmc_core xhci_pci xhci_hcd aesni_intel ahci rtsx_pci libahci aes_x86_64 crypto_simd cryptd glue_helper ehci_pci libata ehci_hcd i2c_i801 scsi_mod psmouse lpc_ich usbcore e1000e usb_common [last unloaded: ip_tables]
+[269362.731512] CPU: 1 PID: 19057 Comm: NetworkManager Tainted: G        W         4.18.0-2-amd64 #1 Debian 4.18.10-2
+[269362.731513] Hardware name: FUJITSU LIFEBOOK E744/FJNB26F, BIOS Version 1.17 09/26/2014
+[269362.731520] RIP: 0010:iwl_mvm_mac_ctxt_add+0xa5/0xc0 [iwlmvm]
+[269362.731521] Code: 03 00 01 8b 16 74 10 83 fa 02 74 27 83 fa 03 b8 09 00 00 00 0f 44 d0 48 8d b5 18 01 00 00 48 c7 c7 f8 1c 50 c1 e8 cb a2 19 f2 <0f> 0b b8 fb ff ff ff eb ab ba 08 00 00 00 eb dd 66 66 2e 0f 1f 84 
+[269362.731553] RSP: 0018:ffffae74c85af3a8 EFLAGS: 00010282
+[269362.731555] RAX: 0000000000000000 RBX: ffff9dcd883f94b0 RCX: 0000000000000006
+[269362.731556] RDX: 0000000000000007 RSI: 0000000000000092 RDI: ffff9dcd9e256730
+[269362.731557] RBP: ffff9dcd883f9370 R08: 0000000000002b3b R09: 0000000000000004
+[269362.731558] R10: ffffe24190279d80 R11: 0000000000000001 R12: ffff9dcaeaff5508
+[269362.731559] R13: ffff9dcaeaff5500 R14: ffff9dcaeaff4760 R15: 0000000000000000
+[269362.731561] FS:  00007f58ddf06b80(0000) GS:ffff9dcd9e240000(0000) knlGS:0000000000000000
+[269362.731562] CS:  0010 DS: 0000 ES: 0000 CR0: 0000000080050033
+[269362.731563] CR2: 00007f2d75d7f000 CR3: 0000000402424003 CR4: 00000000001606e0
+[269362.731564] Call Trace:
+[269362.731575]  iwl_mvm_mac_add_interface+0x17c/0x290 [iwlmvm]
+[269362.731594]  drv_add_interface+0x4c/0x120 [mac80211]
+[269362.731615]  ieee80211_do_open+0x3f1/0x8b0 [mac80211]
+[269362.731632]  ? ieee80211_check_concurrent_iface+0x166/0x1d0 [mac80211]
+[269362.731635]  __dev_open+0xd5/0x170
+[269362.731638]  __dev_change_flags+0x19d/0x1f0
+[269362.731642]  ? add_device_randomness+0x99/0x1c0
+[269362.731644]  dev_change_flags+0x23/0x60
+[269362.731646]  do_setlink+0x2db/0xec0
+[269362.731649]  ? number+0x316/0x340
+[269362.731652]  ? vsnprintf+0xf2/0x4b0
+[269362.731655]  ? validate_nla+0x15c/0x200
+[269362.731657]  rtnl_newlink+0x4f7/0x7e0
+[269362.731661]  ? print_prefix+0x16d/0x190
+[269362.731664]  ? cpumask_next+0x16/0x20
+[269362.731666]  ? __snmp6_fill_stats64.isra.48+0x6b/0x120
+[269362.731670]  ? __nla_reserve+0x38/0x50
+[269362.731671]  ? __nla_put+0xc/0x20
+[269362.731673]  ? nla_put+0x32/0x40
+[269362.731675]  ? inet6_fill_ifla6_attrs+0x469/0x490
+[269362.731678]  ? __kmalloc_node_track_caller+0x1e8/0x290
+[269362.731681]  ? pskb_expand_head+0x6f/0x2f0
+[269362.731683]  ? __kmalloc_reserve.isra.47+0x2e/0x80
+[269362.731686]  ? apparmor_cred_alloc_blank+0x10/0x10
+[269362.731690]  ? security_sock_rcv_skb+0x2a/0x40
+[269362.731692]  ? netlink_attachskb+0x188/0x1d0
+[269362.731695]  ? skb_queue_tail+0x1b/0x50
+[269362.731697]  ? __update_load_avg_se.isra.38+0x1cf/0x1e0
+[269362.731699]  ? __update_load_avg_se.isra.38+0x1cf/0x1e0
+[269362.731703]  ? refcount_inc+0x5/0x30
+[269362.731705]  ? apparmor_sk_free_security+0x20/0x70
+[269362.731707]  rtnetlink_rcv_msg+0x263/0x2d0
+[269362.731711]  ? __wake_up_common+0x76/0x170
+[269362.731713]  ? rtnl_calcit.isra.30+0x110/0x110
+[269362.731715]  netlink_rcv_skb+0x4d/0x130
+[269362.731718]  netlink_unicast+0x1c2/0x250
+[269362.731720]  netlink_sendmsg+0x2c1/0x3b0
+[269362.731723]  sock_sendmsg+0x36/0x40
+[269362.731726]  ___sys_sendmsg+0x2a0/0x2f0
+[269362.731729]  ? wake_up_q+0x3f/0x70
+[269362.731732]  ? futex_wake+0x93/0x180
+[269362.731734]  ? do_futex+0x4b5/0xad0
+[269362.731737]  ? __wake_up_common+0x76/0x170
+[269362.731740]  ? __sys_sendmsg+0x5e/0xa0
+[269362.731741]  __sys_sendmsg+0x5e/0xa0
+[269362.731745]  do_syscall_64+0x55/0x110
+[269362.731749]  entry_SYSCALL_64_after_hwframe+0x44/0xa9
+[269362.731751] RIP: 0033:0x7f58e0614617
+[269362.731752] Code: 44 00 00 41 54 55 41 89 d4 53 48 89 f5 89 fb 48 83 ec 10 e8 0b ea ff ff 44 89 e2 41 89 c0 48 89 ee 89 df b8 2e 00 00 00 0f 05 <48> 3d 00 f0 ff ff 77 35 44 89 c7 48 89 44 24 08 e8 44 ea ff ff 48 
+[269362.731784] RSP: 002b:00007ffec9c73e00 EFLAGS: 00000293 ORIG_RAX: 000000000000002e
+[269362.731786] RAX: ffffffffffffffda RBX: 0000000000000008 RCX: 00007f58e0614617
+[269362.731787] RDX: 0000000000000000 RSI: 00007ffec9c73e50 RDI: 0000000000000008
+[269362.731788] RBP: 00007ffec9c73e50 R08: 0000000000000000 R09: 0000000000000000
+[269362.731789] R10: 0000000000000000 R11: 0000000000000293 R12: 0000000000000000
+[269362.731790] R13: 0000000000000000 R14: 00007ffec9c74008 R15: 00007ffec9c73ffc
+[269362.731792] ---[ end trace e833e03caebb6074 ]---
+[269492.018744] pci_bus 0000:01: Allocating resources
+[269492.018776] pci_bus 0000:02: Allocating resources
+[269492.018814] pci_bus 0000:03: Allocating resources
+[270621.984287] pci_bus 0000:01: Allocating resources
+[270621.984312] pci_bus 0000:02: Allocating resources
+[270621.984342] pci_bus 0000:03: Allocating resources
